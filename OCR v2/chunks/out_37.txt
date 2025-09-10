@@ -1,0 +1,18 @@
+If you faint on land you may suffer bumps and bruises, but fainting in the water can lead to drowning.
+
+Proprioceptor stimulation of breathing
+As soon as you begin exercising, your rate and depth of breathing increase, even before changes in PCO2 or H+ levels occur. The main stimulus for these rapid changes in respiratory effort is input from proprioceptors, which monitor the movement of joints and muscles. Nerve impulses from the proprioceptors stimulate the dorsal respiratory group (DRG) of the medulla. At the same time, axon collaterals of upper motor neurons that originate in the primary motor cortex (precentral gyrus) also feed excitatory impulses into the DRG.
+
+The inflation reflex
+Similar to those in the blood vessels, stretch-sensitive receptors called baroreceptors or stretch receptors are located in the walls of the bronchi and bronchioles. When these receptors become stretched during overinflation of the lungs, nerve impulses are sent along the vagus (X) nerves to the DRG in the medullary respiratory centre. In response, the DRG is inhibited and the diaphragm and external intercostals relax. As a result, further inhalation is stopped and exhalation begins. As air leaves the lungs during exhalation, the lungs deflate and the stretch receptors are no longer stimulated. Thus, the DRG is no longer inhibited, and a new inhalation begins. This reflex is referred to as the inflation reflex, also known as the Hering-Breuer reflex.
+
+In infants, the reflex appears to function in normal breathing. In adults, however, the reflex is not activated until tidal volume (normally about 500 mL) reaches more than 1,500 mL. Therefore, the reflex in adults is a protective mechanism that prevents excessive inflation of the lungs, for example during severe exercise, rather than a key component in the normal control of breathing.
+
+Other influences on breathing
+Other factors that contribute to regulation of breathing include the following. Stimulation of the limbic system: anticipation of activity or emotional anxiety may stimulate the limbic system, which then sends excitatory input to the DRG, increasing the rate and depth of breathing. Temperature: an increase in body temperature, as occurs during fever or vigorous muscular exercise, increases the rate of breathing. A decrease in body temperature decreases breathing rate. A sudden cold stimulus (such as plunging into cold water) causes temporary apnea, an absence of breathing. Pain: a sudden, severe pain brings about brief apnea, but prolonged somatic pain increases breathing rate. Visceral pain may slow the rate and alter the depth of breathing. Stimulation involving the anal sphincter muscle increases the breathing rate and is sometimes used to stimulate respiration in a newborn or in a person who has stopped breathing. Irritation of the airways: physical or chemical irritation of the pharynx or larynx brings about an immediate cessation of breathing followed by coughing or sneezing. Blood pressure: the carotid and aortic baroreceptors that detect changes in blood pressure have a small effect on breathing. A sudden rise in blood pressure decreases the rate of breathing, and a drop in blood pressure increases the breathing rate.
+
+Regulation of breathing in response to changes in blood PCO2 and pH via negative feedback control
+An increase in arterial blood PCO2 stimulates the DRG, helping to restore homeostasis by increasing ventilation and bringing arterial PCO2, pH, and PO2 back toward normal. Nerve impulses to the muscles of inhalation and exhalation cause them to contract more forcefully and more frequently, resulting in hyperventilation.
+
+Concept Check
+Question: What is the normal arterial blood PCO2?

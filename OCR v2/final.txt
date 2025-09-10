@@ -1,0 +1,732 @@
+23.1 Respiratory system anatomy
+
+Learning Objective 23.1: Describe the anatomical structure and function of the respiratory system components.
+
+The respiratory system consists of the nose, pharynx (throat), larynx (voice box), trachea (windpipe), bronchi, and lungs. Its parts can be classified in two ways: structurally and functionally. Structurally, the system is divided into two parts: the upper respiratory system, which includes the nose, nasal cavity, pharynx, and associated structures; and the lower respiratory system, which includes the larynx, trachea, bronchi, and lungs. Functionally, it is divided into two zones: the conducting zone and the respiratory zone. The conducting zone comprises a series of interconnecting cavities and tubes both outside and within the lungs. It includes the nose, nasal cavity, pharynx, larynx, trachea, bronchi, bronchioles, and terminal bronchioles, and its function is to filter, warm, and moisten air and conduct it into the lungs. The respiratory zone consists of tubes and tissues within the lungs where gas exchange occurs, including the respiratory bronchioles, alveolar ducts, alveolar sacs, and alveoli, which are the main sites of gas exchange between air and blood.
+
+Structures of the respiratory system
+
+The upper respiratory system includes the nose, nasal cavity, pharynx, and associated structures; the lower respiratory system includes the larynx, trachea, bronchi, and lungs.
+
+Functions of the Respiratory System
+1. Provides for gas exchange: intake of O2 for delivery to body cells and removal of CO2 produced by body cells.
+2. Helps regulate blood pH.
+3. Contains receptors for the sense of smell, filters inspired air, produces vocal sounds (phonation), and excretes small amounts of water and heat.
+
+Nose
+
+The nose is a specialized organ at the entrance of the respiratory system that consists of a visible external portion and an internal portion inside the skull called the nasal cavity. The external nose is the portion visible on the face and is supported by a framework of bone and hyaline cartilage, covered with muscle and skin and lined by a mucous membrane. The bony framework is formed by the frontal bone, nasal bones, and maxillae. The cartilaginous framework consists of several pieces of hyaline cartilage connected to each other and to certain skull bones by fibrous connective tissue. The cartilaginous framework includes the septal nasal cartilage, which forms the anterior portion of the nasal septum; the lateral nasal cartilages inferior to the nasal bones; and the alar cartilages, which form part of the walls of the nostrils. Because it is made of pliable hyaline cartilage, the cartilaginous framework of the external nose is relatively flexible. On the undersurface of the external nose are two openings called the external nares, or nostrils. The interior structure continues inside the skull as the nasal cavity. 
+
+Question
+What is the site of highest airway flow resistance?
+
+The external nose serves three functions: (1) warming, moistening, and filtering incoming air; (2) detecting olfactory stimuli; and (3) modifying speech vibrations as they pass through the large, hollow resonating chambers. Resonance refers to prolonging, amplifying, or modifying a sound by vibration.
+
+The nasal cavity is a large space in the anterior part of the skull, lying inferior to the nasal bones and superior to the oral cavity, and it is lined with muscle and mucous membrane. A vertical partition, the nasal septum, divides the nasal cavity into right and left sides. The anterior portion of the nasal septum consists primarily of hyaline cartilage; the remainder is formed by the vomer, the perpendicular plate of the ethmoid, the maxillae, and the palatine bones. Anteriorly, the nasal cavity merges with the external nose, and posteriorly it communicates with the pharynx through two openings called the internal nares, or choanae. Ducts from the paranasal sinuses, which drain mucus, and the nasolacrimal ducts, which drain tears, also open into the nasal cavity. Paranasal sinuses are mucosa-lined cavities in certain cranial and facial bones that are continuous with the lining of the nasal cavity. The bones housing the paranasal sinuses are the frontal, sphenoid, ethmoid, and maxillae. Besides producing mucus, the paranasal sinuses serve as resonating chambers for sound as we speak or sing. The lateral walls of the internal nose are formed by the ethmoid, maxilla, lacrimal, palatine, and inferior nasal conchae bones, with the ethmoid bone also forming the roof. The palatine bones and the palatine processes of the maxillae, which together constitute the hard palate, form the floor of the internal nose.
+
+CLINICAL CONNECTION Limiting COVID-19 viral transmission with face masks
+
+As a respiratory pump, the breath-by-breath ventilation of the alveoli ranges from as little as 5 L/min to greater than 200 L/min during increased metabolic demand such as exercise. Transmission of the internal environment of the body is expelled during the expiratory phase of the breathing cycle. Infectious transmission, such as with the common cold and flu viruses, usually fluctuates seasonally, with increased transmission throughout the population in the winter months. No doubt the flu virus has historically been deadly, impacting the most vulnerable. Yet, when the COVID-19 pandemic emerged, it quickly became evident that its infectious potential, primarily via expired air from the lungs, required a modified approach to reducing or eliminating aerosol and droplet contact. Most interestingly, mapping of droplet spread showed that a 1.5 metre distance between two people reduced the chance of infection spread; however, in activities such as exercise these droplets could travel much further, powered by the more rapidly expired air and forceful breathing. Face-mask technology, to control and capture respiratory ventilation, already existed in medical, emergency, and occupationally dangerous environments such as mining. The primary objective had been to protect the wearer from inhaling infectious or dangerous airborne particles. Yet, the emerging public health challenge posed by COVID-19 required a determination of the effectiveness of simple cloth or polyester masks both in terms of protecting the wearer from infected others, and in reducing the expired droplets of the wearer in the event they were infected with no obvious symptoms. Cloth masks, with two to three layers, are deemed to be most effective, especially when changed on a regular basis to prevent the material being saturated. Given that exercise does require increased air movement in and out of the lungs, it has been important to determine what effect wearing a face mask has on performing exercise per se. Acknowledging the short time frame to conduct and publish such data, early indications regarding their impact on exercise remain under study.
+
+For healthy individuals, wearing a few layers of material imposes no limiting effects, though the warmer feeling on the face is largely unavoidable. This may not be the case for everyone, especially those with weaker lungs or obstructive conditions such as asthma or COPD, for whom more studies are already underway.
+
+In New Zealand, and in other places, the compulsory wearing of face masks has been a key public health measure used to control the spread of COVID-19. Mandatory masking in settings where social distancing is not possible or during exercise has contributed to suppressing the pandemic in this region.
+
+Bony framework
+The nose is supported by a bony and cartilaginous framework that helps keep the vestibule and nasal cavity open. The bony component includes the frontal bone, the nasal bones, and the maxilla.
+
+Cartilaginous framework
+The cartilaginous component comprises the lateral nasal cartilages, the septal cartilage, and the alar cartilages, supported by dense fibrous connective tissue and adipose tissue.
+
+Functional anatomy of the nasal cavity
+The nasal cavity is divided into a larger inferior respiratory region and a smaller superior olfactory region. The respiratory region is lined with pseudostratified ciliated columnar epithelium containing numerous goblet cells, a configuration commonly referred to as the respiratory epithelium. The anterior portion just inside the nostrils—the nasal vestibule—is surrounded by cartilage, while the superior part of the nasal cavity is enclosed by bone.
+
+As air enters the nostrils, it first passes through the vestibule, which is lined by skin bearing coarse hairs that filter out large dust particles. Three shelves, formed by the projections of the superior, middle, and inferior nasal conchae, extend from each lateral wall of the nasal cavity and nearly reach the nasal septum. These conchae subdivide each side of the cavity into groovelike air passageways called the superior, middle, and inferior nasal meatuses.
+
+The mucous membrane lines the nasal cavity and its conchae. The arrangement of conchae and meatuses increases the surface area in the internal nose and helps prevent dehydration by trapping water droplets during exhalation. As inhaled air whirls around the conchae and meatuses, it is warmed by blood in the capillaries. Goblet cells secrete mucus to moisten the air and trap dust particles. Drainage from the nasolacrimal ducts also helps moisten the air, and secretions from the paranasal sinuses can contribute as well. The cilia move the mucus and trapped particles toward the pharynx, where they can be swallowed or spit out, thereby removing them from the respiratory tract.
+
+Olfactory region
+The olfactory receptor cells, supporting cells, and basal cells lie in the olfactory epithelium, which is located in the respiratory region near the superior nasal conchae and adjacent septum. These cells contain cilia but no goblet cells. As air passes through the nose, it is warmed, filtered, and moistened, and olfaction occurs.
+
+The external nose consists of a cartilaginous framework and a bony framework. In an anterior view, its parts are the root, which is the superior attachment of the nose to the frontal bone; the apex, the tip of the nose; the bridge, the bony framework formed by the nasal bones; and the external naris, the nostril or external opening into the nasal cavity.
+
+Question: Which part of the nose is attached to the frontal bone?
+
+Clinical connection: Rhinoplasty. Rhinoplasty, from rhino meaning nose and plasty meaning to mold or shape, is a surgical procedure in which the shape of the external nose is altered. Typically, both local and general anesthetics are used. Instruments are inserted through the nostrils, the nasal cartilage is reshaped, and the nasal bones are fractured and repositioned to achieve the desired shape. Although rhinoplasty is often performed for cosmetic reasons, it is sometimes done to repair a fractured nose or correct deformities. Internal packing and a splint are placed to keep the nose in the desired position as it heals.
+
+CHECKPOINT
+1. What functions do the respiratory and cardiovascular systems have in common?
+2. What structural and functional features are different in the upper and lower respiratory systems? Which are the same?
+3. Compare the structure and functions of the external nose and the internal nose.
+
+Pharynx
+The pharynx, or throat, is a funnel-shaped tube about 13 cm (5 in.) long that begins at the internal nares and extends to the level of the cricoid cartilage, the most inferior cartilage of the larynx. The pharynx lies just posterior to the nasal and oral cavities, superior to the larynx, and anterior to the cervical vertebrae. Its wall is composed of skeletal muscles and is lined with a mucous membrane. Relaxed skeletal muscles help keep the pharynx patent, while contraction of the muscles assists in deglutition (swallowing). The pharynx serves as a passageway for air and food, provides a resonating chamber for speech sounds, and houses the tonsils, which participate in immunological reactions against foreign invaders.
+
+The pharynx can be divided into three anatomical regions: the nasopharynx, the oropharynx, and the laryngopharynx. The muscles of the pharynx are arranged in two layers: an outer circular layer and an inner longitudinal layer. The nasopharynx lies posterior to the nasal cavity and extends to the soft palate. The soft palate forms the posterior portion of the roof of the mouth and acts as an arch-shaped muscular partition between the nasopharynx and the oropharynx, being lined by a mucous membrane. There are openings in its wall: two internal nares and openings that lead to the auditory (pharyngotympanic) tubes, commonly known as the Eustachian tubes.
+
+Nasopharynx
+The nasopharynx receives air from the nasal cavity through the internal nares, carrying with it any dust-laden mucus that has been picked up along the way. It is lined with pseudostratified ciliated columnar epithelium, and the cilia move the mucus downward toward the lower part of the pharynx. The nasopharynx also exchanges small amounts of air with the auditory tubes to help equalize air pressure between the middle ear and the atmosphere.
+
+Oropharynx
+The intermediate portion of the pharynx, the oropharynx, lies behind the oral cavity and extends from the soft palate down to the level of the hyoid bone. It has only one opening into it, the fauces, which is the passage from the mouth. This part of the pharynx serves both respiratory and digestive functions, acting as a common passageway for air, food, and drink. Because the oropharynx is subjected to abrasion by swallowed food, it is lined with nonkeratinized stratified squamous epithelium. Two pairs of tonsils, the palatine and lingual tonsils, adorn the oropharynx.
+
+Laryngopharynx
+The inferior part of the pharynx, the laryngopharynx, also called the hypopharynx, begins at the level of the hyoid bone. At its lower end it opens posteriorly into the esophagus and anteriorly into the larynx. Like the oropharynx, the laryngopharynx serves as both a respiratory and a digestive pathway and is lined by nonkeratinized stratified squamous epithelium.
+
+Clinical connection
+Tonsillectomy
+Tonsillectomy is the surgical removal of the tonsils. This procedure is performed under general anesthesia, typically on an outpatient basis, for individuals with frequent tonsillitis, tonsils that develop an abscess or tumor, or tonsils that obstruct breathing during sleep.
+
+Larynx
+The larynx, or voice box, is a short passageway that connects the laryngopharynx with the trachea. It sits in the midline of the neck, anterior to the esophagus and between the fourth and sixth cervical vertebrae (C4–C6). The wall of the larynx comprises nine cartilages: three single cartilages—the thyroid cartilage, the epiglottis, and the cricoid cartilage—and three paired cartilages—the arytenoid, the cuneiform, and the corniculate cartilages. Of the paired cartilages, the arytenoids are the most important because they influence changes in the position and tension of the vocal folds, or true vocal cords, which are essential for speech. The extrinsic muscles connect the laryngeal cartilages to other structures in the throat, while the intrinsic muscles connect the cartilages to one another.
+
+The cavity of the larynx runs from the entrance into the larynx down to the inferior border of the cricoid cartilage. The portion of the cavity above the vestibular folds, or false vocal cords, is the laryngeal vestibule. The portion below the vocal folds is the infraglottic, or subglottic, cavity.
+
+The thyroid cartilage, often referred to as the Adam’s apple, consists of two fused plates of hyaline cartilage that form the anterior wall of the larynx and give it its triangular shape. This cartilage is present in both males and females but is usually larger in males due to hormonal influences during puberty. The thyrohyoid membrane connects the thyroid cartilage to the hyoid bone.
+
+The epiglottis is a large, leaf-shaped piece of elastic cartilage covered with epithelium. The stem of the epiglottis is the tapered inferior portion that attaches to the anterior rim of the thyroid cartilage, while the broad superior leaf is unattached and free to move up and down. The epiglottis functions to cover the opening of the larynx during swallowing, helping to prevent food from entering the airway.
+
+The larynx functions in part as a protective gateway during swallowing. As you swallow, the pharynx and larynx rise together. The pharynx elevates to widen the passage for food or drink, while the larynx elevates so the epiglottis can move downward and form a lid over the glottis, effectively closing it. The glottis itself is made up of the vocal folds, or true vocal cords, in the larynx, and the space between them called the rima glottidis. When the larynx closes in this way, liquids and foods are directed toward the esophagus and are kept out of the larynx and the airways. If small particles—dust, smoke, food, or liquids—enter the larynx, a cough reflex is typically triggered to expel the material.
+
+The cricoid cartilage is a ring of hyaline cartilage that forms the inferior wall of the larynx. It attaches to the first ring of cartilage of the trachea by the cricotracheal ligament. The thyroid cartilage is connected to the cricoid by the cricothyroid ligament. The cricoid cartilage serves as a landmark for emergency airways, such as a tracheotomy. The arytenoid cartilages are a pair of triangular pieces of mostly hyaline cartilage located at the posterior, superior border of the cricoid cartilage. They form synovial joints with the cricoid cartilage and have a wide range of mobility. The corniculate cartilages are horn-shaped pieces of elastic cartilage situated at the apex of each arytenoid cartilage. The cuneiform cartilages are wedge-shaped, club-shaped elastic cartilages located anterior to the corniculate cartilages; they support the vocal folds and the lateral aspects of the epiglottis. The larynx is composed of nine cartilaginous elements in total.
+
+Epiglottis: The epiglottis is a flap of elastic cartilage that plays a crucial role during swallowing by covering the laryngeal inlet to prevent food and liquids from entering the airway.
+
+Question: How does the epiglottis prevent aspiration of foods and liquids?
+
+The lining of the larynx above the vocal folds is nonkeratinised stratified squamous epithelium. The lining below the vocal folds is pseudostratified ciliated columnar epithelium, consisting of ciliated columnar cells, goblet cells, and basal cells. Goblet cells secrete mucus to trap dust and other particles that are not removed in the upper passages. The cilia of the upper respiratory tract move mucus and trapped particles downward toward the pharynx, while the cilia of the lower respiratory tract move them upward toward the pharynx.
+
+Clinical connection: Laryngitis and cancer of the larynx. Laryngitis is an inflammation of the larynx that is most often caused by...
+
+Inflammation of the vocal folds can cause hoarseness or loss of voice by interfering with their contraction or by making them swell so they cannot vibrate freely. Chronic inflammation can lead to permanent hoarseness. Laryngeal cancer is found almost exclusively in smokers and is characterized by hoarseness, pain on swallowing, or pain radiating to the ear. Treatment typically involves radiation therapy and/or surgery. When the vocal folds cannot vibrate freely, voice is impaired.
+
+The structures of voice production
+
+The mucous membrane of the larynx forms two pairs of folds: the superior vestibular folds (false vocal cords) and the inferior vocal folds (true vocal cords). The space between the vestibular folds is the rima vestibuli. The laryngeal ventricle is a lateral expansion of the middle portion of the laryngeal cavity, located inferior to the vestibular folds and superior to the vocal folds. While the vestibular folds do not function in voice production, they have other important roles. When the vestibular folds are brought together, they help hold the breath against pressure in the thoracic cavity, such as might occur when a person strains to lift a heavy object.
+
+The vocal folds are the principal structures of voice production. Deep to the mucous membrane of the vocal folds, which is nonkeratinized stratified squamous epithelium, lie bands of elastic ligaments stretched between the rigid cartilages of the larynx, like the strings of a guitar. Intrinsic laryngeal muscles attach to both the rigid cartilages and the vocal folds. When these muscles contract, they move the cartilages, pulling the elastic ligaments tight and stretching the vocal folds out into the airways so that the rima glottidis is narrowed. Contracting and relaxing the muscles varies the tension in the vocal folds, much like tightening or loosening a guitar string. Air passing through the larynx vibrates the folds and produces sound (phonation) by setting up sound waves in the column of air in the pharynx, nose, and mouth. The pitch of the sound is related to the tension in the vocal folds: the greater the tension, the higher the pitch. The louder the sound, the greater the air pressure driving the vibration.
+
+When the intrinsic muscles of the larynx contract, they pull on the arytenoid cartilages, causing the cartilages to pivot and slide. Contraction of the posterior cricoarytenoid muscles moves the vocal folds apart (abduction), thereby opening the rima glottidis. By contrast, contraction of the lateral cricoarytenoid muscles moves the vocal folds together (adduction), thereby closing the rima glottidis. Other intrinsic muscles can elongate (and place tension on) or shorten (and relax) the vocal folds.
+
+Movement of the vocal folds
+
+The glottis consists of a pair of folds of mucous membrane in the larynx (the vocal folds) and the space between them (the rima glottidis).
+
+Question: What is the main function of the vocal folds?
+
+Pitch is controlled by the tension on the vocal folds. If the folds are pulled taut by the muscles, they vibrate more rapidly, producing a higher pitch. Decreasing the muscular tension on the vocal folds causes them to vibrate more slowly and produce a lower-pitched sound.
+
+Vocal characteristics arise in part from hormones. Because of the influence of androgens, the male sex hormones, the vocal folds are usually thicker and longer in males than in females, so they vibrate more slowly. This explains why a man’s voice generally has a lower pitch range than a woman’s. Sound originates from the vibration of the vocal folds, but additional structures are required to convert that sound into recognisable speech. The pharynx, mouth, nasal cavity, and paranasal sinuses act as resonating chambers, giving the voice its human and individual quality. Vowel sounds are produced by constricting and relaxing the muscles in the walls of the pharynx. Muscles of the face, tongue, and lips assist in enunciating words.
+
+Whispering is achieved by closing all but the posterior portion of the rima glottidis. Because the vocal folds do not vibrate during whispering, there is no pitch to this form of speech. Nevertheless, intelligible speech can be produced while whispering by altering the shape of the oral cavity as we enunciate. As the size of the oral cavity changes, its resonance qualities change as well, imparting a vowel-like pitch to the air as it travels toward the lips.
+
+Trachea
+The trachea, also called the windpipe, is a sturdy tube through which air moves. It is about 12 cm (5 in.) long and 2.5 cm (1 in.) in diameter. The trachea lies anterior to the esophagus and extends from the larynx to the upper border of the fifth thoracic vertebra, where it divides into the right and left primary bronchi.
+
+QUESTION
+What is the benefit of not having complete rings of tracheal cartilage between the trachea and the esophagus?
+
+The layers of the tracheal wall, from deep to superficial, are the mucosa, submucosa, hyaline cartilage, and adventitia. The mucosa consists of an epithelial layer of pseudostratified ciliated columnar epithelium with a lamina propria that contains elastic and reticular fibers, providing protection against dust in a manner similar to the membrane lining the nasal cavity and larynx. The submucosa is made of areolar connective tissue and contains seromucous glands and their ducts.
+
+The trachea contains 16–20 incomplete, horizontal rings of hyaline cartilage that resemble the letter C, stacked one above another and connected by dense connective tissue. These rings can be felt beneath the skin just inferior to the larynx. The open part of each C-shaped ring faces posteriorly toward the esophagus and is bridged by a fibromuscular membrane. Within this membrane lie transverse smooth muscle fibers, the trachealis muscle, and elastic connective tissue, which allow the trachea’s diameter to change subtly during inhalation and exhalation, aiding efficient airflow. The solid C-shaped cartilage rings provide semirigid support to keep the trachea patent, preventing inward collapse of the tracheal wall and obstruction of the air passageway. The adventitia consists of areolar connective tissue that attaches the trachea to surrounding tissues.
+
+Clinical Connection
+Tracheotomy and intubation
+Several conditions may block airways.
+
+Airflow can be obstructed in several ways: the rings of cartilage that support the trachea may be crushed; the mucous membrane can become inflamed and swell enough to close the passage; excess mucus produced by inflamed membranes may clog the lower airways; a large object can be aspirated (breathed in); or a cancerous tumor may protrude into the airway. To restore airflow past a tracheal obstruction, two methods are used. If the obstruction is above the level of the larynx, a tracheotomy, also called a tracheostomy, may be performed. This procedure involves a skin incision followed by a short longitudinal incision into the trachea below the cricoid cartilage, after which a tracheal tube is inserted to create an emergency airway passage. The second method is intubation, in which a tube is inserted through the mouth or nose and threaded downward past the larynx and trachea. The firm wall of the tube helps push aside any flexible obstruction, and the lumen provides a passage for air; any mucus clogging the trachea can be suctioned out through the tube.
+
+Bronchi
+At the superior border of the fifth thoracic vertebra, the trachea divides into the right main bronchus, which goes into the right lung, and the left main bronchus, which goes into the left lung. The right main bronchus is more vertical, shorter, and wider than the left; consequently, an aspirated object is more likely to enter and lodge in the right main bronchus than in the left. Like the trachea, the main bronchi contain incomplete rings of cartilage and are lined by pseudostratified ciliated columnar epithelium.
+
+Branching of airways from the trachea forms the bronchial tree, a system of macroscopic airways that begins at the trachea and extends through the terminal bronchioles.
+
+On entering the lungs, the main bronchi divide to form smaller bronchi—the lobar (secondary) bronchi, one for each lobe of the lung. The right lung has three lobes, while the left lung has two. The lobar bronchi continue to branch, forming even smaller bronchi called segmental (tertiary) bronchi, each supplying a specific bronchopulmonary segment within the lobes. The segmental bronchi then divide into bronchioles. Bronchioles branch repeatedly, and the smallest bronchioles give rise to terminal bronchioles.
+
+The terminal bronchioles contain club cells, also known as Clara cells, which are columnar, nonciliated cells interspersed among the epithelial cells. Club cells may protect against the harmful effects of inhaled toxins and carcinogens, produce surfactant, and function as stem cells (reserve cells) that give rise to various cells of the epithelium. The terminal bronchioles mark the end of the conducting airways and lead into the gas-exchange regions of the lung. 
+
+Question
+How many lobes and secondary bronchi are present in each lung? 
+Where the trachea divides into the right and left main bronchi, an internal ridge called the carina forms, produced by a posterior and somewhat inferior projection of the last tracheal cartilage. The mucous membrane of the carina is one of the most sensitive areas of the larynx and trachea, and is a major trigger for coughing. Widening or distortion of the carina is a serious sign, usually indicating involvement of lymph nodes around the region where the trachea divides.
+
+From the main bronchi onward, the airways progressively form the bronchial tree. The main bronchi divide to form lobar (secondary) bronchi; the right lung has three lobes, and the left has two. The lobar bronchi divide into segmental (tertiary) bronchi, which supply the bronchopulmonary segments within each lobe. The segmental bronchi divide into bronchioles, which then branch into terminal bronchioles. These terminal bronchioles contain club cells, which are capable of protecting against inhaled toxins and carcinogens, producing surfactant, and acting as reserve stem cells to replace damaged cells.
+
+Bronchioles represent the end of the conducting zone of the respiratory system. This extensive branching from the trachea through the terminal bronchioles resembles an inverted tree and is commonly referred to as the bronchial tree. As the branching becomes more extensive in the bronchial tree, several structural changes may be noted.
+
+1. The mucous membrane in the bronchial tree changes from pseudostratified ciliated columnar epithelium in the main bronchi, lobar bronchi, and segmental bronchi to ciliated simple columnar epithelium with some goblet cells in larger bronchioles, to mostly ciliated simple cuboidal epithelium with no goblet cells in smaller bronchioles, to mostly nonciliated simple cuboidal epithelium in terminal bronchioles. Recall that ciliated epithelium of the respiratory membrane removes inhaled particles in two ways. Mucus produced by goblet cells traps the particles, and the cilia move the mucus and trapped particles towards the pharynx for removal. In regions where nonciliated simple cuboidal epithelium is present, inhaled particles are removed by macrophages.
+
+2. Plates of cartilage gradually replace the incomplete rings of cartilage in main bronchi and finally disappear in the distal bronchioles.
+
+3. As the amount of cartilage decreases, the amount of smooth muscle increases. Smooth muscle encircles the lumen in spiral bands and helps maintain patency. However, because there is no supporting cartilage, muscle spasms can close off the airways. This is what happens during an asthma attack, which can be a life-threatening situation.
+
+During exercise, activity in the sympathetic division of the autonomic nervous system (ANS) increases and the adrenal medulla releases the hormones epinephrine and norepinephrine; both of these events cause relaxation of smooth muscle in the bronchioles, which dilates the airways. Because air reaches the alveoli more quickly, lung ventilation improves. The parasympathetic division of the ANS and mediators of allergic reactions such as histamine have the opposite effect, causing contraction of bronchiolar smooth muscle, which results in constriction of distal bronchioles.
+
+SPORT SPOTLIGHT: Exercise training and the Australian bushfires of 2019-20
+The Australian bushfires of 2019-20 dramatically affected the air quality of the east coast, and millions of Australians were exposed to very poor air quality for several weeks. The immediate concern was raised for those in vulnerable groups with pre-existing respiratory disease, breathing limitations, and poor lung health. Undoubtedly, the detrimental effects of breathing in thousands of tiny air toxins were unquestionable. In the weeks to come, when it was evident that air quality would be poor for possibly months, questions were raised about the safety of healthy, active adults taking part in recreational activity and also elite athletes either training or competing in those conditions. The lungs perform many roles beyond gas exchange, and these collectively are referred to as non-respiratory functions. As a barrier between the external and internal environments, the lungs filter toxins and particles and protect against infection. However, this delicate system, including ciliated epithelial tissue, immune cells, and mucus, can be overwhelmed by destruction and damage, even when the person is healthy and disease-free. Athletes will increase their ventilation, sometimes 20-25 fold, during vigorous and high-intensity training. This results in ventilation exceeding 200 L/min in endurance runners and cyclists. In an environment of poor air quality, mass exposure to the detrimental particles in smoke-filled air can have both short- and long-term health implications. Immediate risks include bronchoconstriction.
+
+Asthma-like symptoms, or damage to the small airways, can affect lung health and the body’s ability to fight infection. Fortunately, the Australian Institute, with expert guidance, has provided both general and exercise-specific advice for athletes, coaches, and the wider public. These guidelines outline activities that modify ventilation requirements and describe training environments that help filter and clean the air, such as indoor training when possible. Understanding the importance of maintaining a healthy and functioning respiratory system should encourage athletes to minimise the risks that poor air quality poses to this critical body system during exercise. With an expected increase in poor air quality in the future—not only from bushfires—these guidelines are a valuable resource for anyone participating in exercise when air quality deteriorates. The guidance factors in measurable air quality and types of recommendations for adapting training and competition to air-quality conditions.
+
+CHECKPOINT 4. List the roles of each of the three anatomical regions of the pharynx in respiration.
+CHECKPOINT 5. Describe the location, structure, and function of the trachea.
+CHECKPOINT 6. How does the larynx function in respiration and voice production?
+CHECKPOINT 7. Describe the structure of the bronchial tree.
+
+Lungs
+The lungs are paired, cone-shaped organs in the thoracic cavity. They are separated from each other by the heart and other structures of the mediastinum, which divides the thoracic cavity into two distinct compartments. As a result, if trauma causes one lung to collapse, the other may remain expanded. Each lung is enclosed and protected by a double-layered serous membrane called the pleural membrane. The superficial layer is the parietal pleura, which lines the wall of the thoracic cavity, while the deep layer is the visceral pleura, which covers the lungs themselves. Between the visceral and parietal pleurae is a small space—the pleural cavity—containing a small amount of lubricating fluid secreted by the membranes. This pleural fluid reduces friction between the membranes, allowing them to slide easily over one another during breathing. Pleural fluid also helps hold the two membranes together, functioning much like a thin film of water that causes two glass slides to stick together, a phenomenon known as surface tension. Separate pleural cavities surround the left and right lungs. Inflammation of the pleural membrane, pleurisy or pleuritis, may initially be painful due to friction between the parietal and visceral layers. If the inflammation persists, excess fluid can accumulate in the pleural space, a condition called pleural effusion.
+
+Relationship of the pleural membranes to the lungs
+The parietal pleura lines the thoracic cavity, and the visceral pleura covers the lungs. The lungs extend from the diaphragm to just above the clavicles and lie against the ribs both anteriorly and posteriorly. The broad inferior portion of each lung, the base, is concave and rests on the convex diaphragm. The narrow superior portion is the apex. The surface of the lung that lies against the ribs is the costal surface, which follows the curvature of the ribs. The mediastinal (medial) surface of each lung contains a region called the hilum, through which bronchi, pulmonary blood vessels, lymphatic vessels, and nerves enter and exit.
+
+The lungs are held within their pleural envelopes by the pleura and surrounding connective tissue, forming the root of each lung. Medially, the left lung features a concavity called the cardiac notch, accommodating the heart. Because the heart occupies more space on the left, the left lung is about 10 percent smaller than the right. The right lung is thicker and broader, but it is somewhat shorter because the right side of the diaphragm rises to accommodate the liver lying beneath it.
+
+Surface anatomy of the lungs
+The apex of the lung rises above the medial third of the clavicle and is the only part that can be palpated. The anterior, lateral, and posterior surfaces lie against the ribs. The base of the lung extends from the sixth costal cartilage anteriorly to the spinous process of the tenth thoracic vertebra posteriorly. The pleura extends about 5 cm (2 in) below the base, from the sixth costal cartilage anteriorly to the twelfth rib posteriorly. Consequently, the lungs do not completely fill the pleural cavity in this area.
+
+Removal of excess fluid from the pleural cavity is accomplished without injuring lung tissue by inserting a needle anteriorly through the seventh intercostal space. This procedure, called thoracentesis, involves passing the needle along the superior border of the lower rib to avoid damage to the intercostal nerves and blood vessels. Inferior to the seventh intercostal space there is a danger of penetrating the diaphragm.
+
+Clinical connection
+Pneumothorax occurs when air enters the pleural cavity, causing the lung to collapse, while haemothorax refers to blood in the pleural space. In some cases, the pleural cavities may fill with air, blood, or pus, and the treatment aims to evacuate the air (or blood) from the pleural space to allow the lung to reinflate. Air in the pleural space is most commonly introduced through a surgical chest opening or as a result of trauma, such as a stab wound or gunshot. A chest tube is often necessary to facilitate evacuation.
+
+Lobes, fissures, and lobules
+One or two fissures divide each lung into lobes. Both lungs have an oblique fissure that extends inferiorly and anteriorly; the right lung also has a horizontal fissure. The oblique fissure in the left lung separates the superior lobe from the inferior lobe. In the right lung, the superior part of the oblique fissure separates the superior lobe from the inferior lobe, while the inferior part separates the inferior lobe from the middle lobe, which is bordered superiorly by the horizontal fissure. Each lobe receives its own lobar bronchus. Thus, the right main bronchus gives rise to three lobar bronchi: superior, middle, and inferior.
+
+The lobar bronchi form the major divisions within each lung: the right lung has the superior, middle, and inferior lobar bronchi, while the left main bronchus gives rise to the superior and inferior lobar bronchi. Within the lung, these lobar bronchi give rise to the segmental bronchi, which are constant in both origin and distribution—there are ten segmental bronchi in each lung. The portion of lung tissue supplied by each segmental bronchus is called a bronchopulmonary segment. Localized bronchopulmonary disorders, such as tumours or abscesses, can be removed surgically from a segment without causing serious disruption to the surrounding lung tissue. Each bronchopulmonary segment contains many small compartments called lobules; every lobule is wrapped in elastic connective tissue and contains a lymphatic vessel, an arteriole, a venule, and a branch from a terminal bronchiole. Terminal bronchioles subdivide into microscopic branches called respiratory bronchioles, which bear alveoli on their walls. Alveoli participate in gas exchange, so respiratory bronchioles mark the beginning of the respiratory zone of the respiratory system. As respiratory bronchioles extend deeper into the lungs, their epithelial lining changes from simple cuboidal to simple squamous. Respiratory bronchioles then subdivide into several alveolar ducts, each composed of simple squamous epithelium. The respiratory passages from the trachea to the alveolar ducts exhibit about twenty-five orders of branching: first-order branching from the trachea into primary bronchi, second-order branching from main bronchi into lobar bronchi, and so on down to the alveolar ducts.
+
+Microscopic anatomy of a lobule of the lungs
+
+Alveolar sacs consist of two or more alveoli that share a common opening. An alveolus is a cup-shaped outpouching lined by simple squamous epithelium and supported by a thin elastic basement membrane; an alveolar sac consists of two or more alveoli that share a common opening. The walls of the alveoli are formed by two types of alveolar epithelial cells. The more numerous type I alveolar cells are squamous pulmonary epithelial cells that form a nearly continuous lining of the alveolar wall. Type II alveolar cells are rounded or cuboidal in shape, with free surfaces bearing microvilli, and they secrete alveolar fluid that keeps the surface between the cells and the air moist. Included in the alveolar fluid is surfactant, a complex mixture of phospholipids and lipoproteins. Surfactant lowers the surface tension of the alveolar fluid, reducing the tendency of the alveoli to collapse and thus helping to maintain their patency. Associated with the alveolar walls are alveolar macrophages (dust cells), phagocytes that remove fine dust particles and other debris from the alveolar spaces. Also present are fibroblasts that produce reticular and elastic fibers. Underlying the layer of Type I alveolar cells lies the basement membrane and a surrounding capillary network that facilitates gas exchange. 
+
+QUESTION What types of cells make up the wall of an alveolus?
+
+Alveoli
+
+Respiratory membrane
+
+The alveolus is wrapped by an elastic basement membrane. On the outer surface of each alveolus, the arterioles and venules of the surrounding lobule branch into a network of capillaries that form a single layer of endothelial cells resting on a basement membrane. Gas exchange between the air spaces of the lungs and the blood occurs by diffusion across the walls of the alveoli and the capillaries, which together constitute the respiratory membrane.
+
+Extending from the alveolar air space to the blood plasma, the respiratory membrane consists of four layers:
+1) a layer made up of type I and type II alveolar cells and the associated alveolar macrophages that constitutes the alveolar wall;
+2) an epithelial basement membrane underlying the alveolar wall;
+3) a capillary basement membrane that is often fused to the epithelial basement membrane;
+4) the capillary endothelium.
+
+Although the respiratory membrane comprises several layers, it is extremely thin—about 0.5 micrometers thick, roughly one-sixteenth the diameter of a red blood cell—so gases can diffuse rapidly. The lungs contain roughly 300 million alveoli, providing an enormous surface area of about 70 square meters (roughly 750 square feet)—approximately the size of a racquetball court—for gas exchange.
+
+The alveolar space contains fluid with surfactant, which helps keep the surface tension of the alveoli reasonable and aids in gas exchange.
+
+Question: How thick is the respiratory membrane?
+
+Blood supply to the lungs
+
+The lungs receive blood through two distinct arterial systems: the pulmonary arteries and the bronchial arteries. Deoxygenated blood travels from the heart via the pulmonary trunk, which divides into the left and right pulmonary arteries, delivering blood to each lung. The pulmonary arteries are the only arteries in the body that carry deoxygenated blood.
+
+Oxygenated blood returns to the heart through four pulmonary veins, which drain into the left atrium.
+
+A unique feature of the pulmonary vasculature is its response to local hypoxia. In most tissues, low oxygen levels cause vessels to dilate and increase blood flow. In the lungs, hypoxia induces vasoconstriction, redirecting blood away from poorly ventilated regions toward well-ventilated areas to optimize gas exchange. This phenomenon is known as ventilation–perfusion coupling, ensuring that blood flow matches the amount of air reaching the alveoli.
+
+Bronchial arteries, branching from the aorta, supply oxygenated blood to the lungs, primarily perfusing the muscular walls of the bronchi and bronchioles. There are connections between branches of the bronchial arteries and branches of the pulmonary arteries; however, most blood returns to the heart via the pulmonary veins.
+
+Blood drains into the bronchial veins, branches of the azygos system, and returns to the heart via the superior vena cava.
+
+Patency of the respiratory system
+Throughout the discussion of the respiratory organs, several examples were given of structures or secretions that help to keep air passages open and free from obstruction. These include the bony and cartilaginous frameworks of the nose, the skeletal muscles of the pharynx, the cartilages of the larynx, the C-shaped rings of cartilage in the trachea and bronchi, the smooth muscle in the bronchioles, and the surfactant produced in the alveoli. There are, however, factors that can compromise patency. Crushing injuries to bone and cartilage, a deviated nasal septum, nasal polyps, inflammation of the mucous membranes, spasms of smooth muscle, and surfactant deficiency can all threaten airway openness.
+
+A summary of the epithelial linings and special features of the organs of the respiratory system is given here.
+
+Nose
+- Vestibule: Epithelium is nonkeratinised stratified squamous; there are no cilia and no goblet cells; special features include numerous hairs.
+- Respiratory region: Epithelium is pseudostratified ciliated columnar; cilia and goblet cells are present; special features include conchae and nasal meatuses.
+- Olfactory region: Epithelium is olfactory; goblet cells are not present; this region functions in olfaction via olfactory receptors.
+
+Pharynx
+- Nasopharynx: Epithelium is pseudostratified ciliated columnar; goblet cells are present; special features include passageways for air and openings for the internal nares, auditory tubes, and pharyngeal tonsil.
+- Oropharynx: Epithelium is nonkeratinised stratified squamous; goblet cells are not present; special features include a passageway for both air and food and drink, with the opening from the mouth (fauces).
+- Laryngopharynx: Epithelium is nonkeratinised stratified squamous; goblet cells are not present; special features include a passageway for both air and food.
+
+Larynx
+- Epithelium: Above the vocal folds it is nonkeratinised stratified squamous; below the vocal folds it is pseudostratified ciliated columnar.
+- Special features: The larynx contains folds that include the vocal folds, important for voice production.
+
+Trachea
+- Epithelium: Pseudostratified ciliated columnar; goblet cells are present.
+- Special features: It serves as a passageway for air and contains C-shaped rings of cartilage to keep the trachea open.
+
+Bronchi
+- Main bronchi: Epithelium is pseudostratified ciliated columnar; goblet cells are present; special features include the C-shaped rings of cartilage that help maintain patency.
+- Lobar bronchi: Epithelium is pseudostratified ciliated columnar; goblet cells are present; special features include plates of cartilage to maintain patency.
+- Segmental bronchi: Epithelium is pseudostratified ciliated columnar; goblet cells are present; special features include plates of cartilage to maintain patency.
+- Bronchioles: Epithelium transitions to a smaller, more simple form; goblet cells are present initially, but there is relatively more smooth muscle in the larger bronchioles than in the smaller ones.
+- Terminal bronchioles: Epithelium is nonciliated simple columnar; goblet cells are absent; special features include a greater amount of smooth muscle than in the smaller bronchioles.
+
+Lungs
+- Respiratory structures: Epithelium ranges from simple cuboidal to simple squamous; goblet cells are not present; the region serves as a passageway for air and supports gas exchange.
+- Alveolar ducts: Epithelium is simple squamous; goblet cells are not present; special features include their role in gas exchange and their involvement in surfactant production.
+- Alveoli: Epithelium is simple squamous; goblet cells are not present; they function in gas exchange and are involved in surfactant production to help maintain patency.
+
+CHECKPOINT 8
+Where are the lungs located? Distinguish the parietal pleura from the visceral pleura.
+
+CHECKPOINT 9
+Define each of the following parts of a lung: base, apex, costal surface, medial surface, hilum, root, cardiac notch, lobe, and lobule.
+
+CHECKPOINT 10
+What is a bronchopulmonary segment?
+
+CHECKPOINT 11
+Describe the histology and function of the respiratory membrane.
+
+23.2 Pulmonary ventilation
+
+Learning Objective 23.2: Describe the events that cause inhalation and exhalation.
+
+Respiration, the process of gas exchange in the body, occurs in three basic steps. First is pulmonary ventilation, or breathing, which is the inflow and outflow of air between the atmosphere and the alveoli of the lungs. Second is external (pulmonary) respiration, the exchange of gases between the alveoli and the blood in the pulmonary capillaries across the respiratory membrane; in this step, the blood gains oxygen (O2) and loses carbon dioxide (CO2). Third is internal (tissue) respiration, the exchange of gases between the blood in systemic capillaries and tissue cells; here, the blood loses O2 and gains CO2. Within cells, the metabolic reactions that consume O2 and release CO2 during ATP production are termed cellular respiration.
+
+Pulmonary ventilation depends on alternating pressure differences created by the contraction and relaxation of respiratory muscles. The rate of airflow and the amount of effort required for breathing are influenced by factors such as alveolar surface tension, the compliance of the lungs, and airway resistance.
+
+Pressure changes during pulmonary ventilation
+
+Air moves into the lungs when the air pressure inside the lungs is less than the air pressure in the atmosphere, and air moves out when the intrapulmonary pressure is greater than atmospheric pressure.
+
+Inhalation
+
+Breathing in is called inhalation (inspiration). Just before each inhalation, the pressure inside the lungs is equal to the atmospheric pressure, which at sea level is about 760 mmHg, or 1 atmosphere (atm). For air to flow into the lungs, the pressure inside the alveoli must become lower than atmospheric pressure. This condition is achieved by increasing the size of the lungs. The pressure of a gas in a closed container is inversely proportional to the container’s volume: if the container’s size increases, the gas pressure decreases, and if the size decreases, the pressure increases. This inverse relationship between volume and pressure, Boyle’s law, can be illustrated conceptually: place a gas in a cylinder with a movable piston and a pressure gauge. If the piston is pushed down, the gas is compressed into a smaller volume, and the same number of gas molecules strike a smaller wall area, causing the gauge to show higher pressure. Conversely, if the piston is raised to increase the volume, the pressure decreases. Thus, the pressure of a gas varies inversely with volume.
+
+Differences in pressure caused by changes in lung volume drive air into the lungs during inhalation and push air out during exhalation. For inhalation to occur, the lungs must expand, increasing lung volume and reducing intrapulmonary pressure to below atmospheric pressure.
+
+The first step in expanding the lungs during normal quiet inhalation involves contraction of the main muscle of inhalation, the diaphragm, with assistance from the external intercostal muscles. The diaphragm is the dome-shaped skeletal muscle that forms the floor of the thoracic cavity. It is innervated by the phrenic nerves, which arise from spinal cord segments C3–C5. When the diaphragm contracts, it flattens, lowering its dome and increasing the vertical diameter of the thoracic cavity. During normal quiet inhalation, the diaphragm descends.
+
+About 1 cm (0.4 in.) of a diaphragm descent during quiet breathing produces a pressure difference of 1–3 mmHg and lets in roughly 500 mL of air. In strenuous breathing, the diaphragm can descend as much as 10 cm (4 in.), generating a pressure difference of about 100 mmHg and drawing in 2–3 litres of air. The contraction of the diaphragm is responsible for roughly 75% of the air that enters the lungs during quiet breathing. Advanced pregnancy, excessive obesity, or constrictive abdominal clothing can prevent the diaphragm from descending fully.
+
+Boyle's law
+The volume of a gas varies inversely with its pressure.
+
+Question
+If the volume is decreased from 1 litre to 1/2 litre, how would the pressure change?
+
+Muscles of inhalation and exhalation
+The pectoralis minor muscle, which is not shown here, can assist during breathing.
+
+During normal, quiet inhalation, the diaphragm and external intercostals contract, the lungs expand, and air moves into the lungs. During normal, quiet exhalation, the diaphragm and external intercostals relax and the lungs recoil, forcing air out of the lungs.
+
+Inhalation involves the diaphragm and the external intercostals contracting, which expands the chest cavity and lowers alveolar pressure, allowing air to flow into the lungs. The external intercostals lift the ribs, increasing the anteroposterior and lateral dimensions of the chest cavity. The external intercostals contribute about 25% of the air that enters the lungs during normal quiet breathing.
+
+During quiet inhalations, the intrapleural pressure—the pressure between the pleural layers in the pleural cavity—is always subatmospheric (lower than atmospheric pressure). Just before inhalation, it is about 4 mmHg below atmospheric pressure. As the diaphragm and external intercostals contract and the thoracic cavity enlarges, the volume of the pleural cavity increases and intrapleural pressure falls further.
+
+The pleural spaces are kept open because the subatmospheric intrapleural pressure and the surface tension of the moist pleural surfaces hold the parietal and visceral pleurae together. As the thoracic cavity expands, the parietal pleura is pulled outward in all directions, and the visceral pleura and the lungs follow.
+
+During inhalation, the diaphragm contracts, the chest expands, the lungs are pulled outward, and alveolar pressure decreases. During exhalation, the diaphragm relaxes, the lungs recoil inward, and alveolar pressure increases, pushing air out of the lungs.
+
+Right now, what is the main muscle powering your breathing?
+
+Other inspiratory muscles, such as the sternocleidomastoid and the scalene muscles, assist during deeper or more forceful breaths. The next most important muscles of inhalation are the external intercostals; when these muscles contract, they elevate the ribs and enlarge the chest cavity.
+
+ALVEOLAR PRESSURE
+
+At rest, when the diaphragm is relaxed, the alveolar pressure equals atmospheric pressure, and there is no air flow. During quiet inhalation, the lungs expand and the alveolar pressure drops slightly, from 760 mmHg to 758 mmHg. This small drop creates a pressure difference between the atmosphere and the alveoli, and air flows into the lungs as long as that gradient exists. During deep, forceful inhalations, accessory muscles of inspiration participate in increasing the size of the thoracic cavity. The sternocleidomastoid muscles elevate the sternum, the scalene muscles lift the first two ribs, and the pectoralis minor muscles elevate the third through fifth ribs. Because both normal quiet inhalation and inhalation during exercise or forced ventilation involve muscular contraction, the process of inhalation is active.
+
+INTRAPLEURAL PRESSURE
+
+The intrapleural pressure is the pressure within the pleural cavity. As the chest expands during inspiration, the intrapleural pressure becomes more negative, creating a gradient that helps the lungs expand. During quiet exhalation, the diaphragm and external intercostals relax, the chest wall and lungs recoil, the chest cavity decreases in size, and the alveolar pressure rises above atmospheric pressure. Air then flows out of the lungs in response to this pressure gradient, and the lung volume decreases. During forced exhalations, the internal intercostals and abdominal muscles contract, further reducing the size of the chest cavity and producing a greater rise in alveolar pressure.
+
+QUESTION How does the intrapleural pressure change during a normal, quiet breath?
+
+As the volume of the lungs increases, the pressure inside the lungs—alveolar (intrapulmonic) pressure—drops from 760 mmHg to 758 mmHg. A pressure difference is thus established between the atmosphere and the alveoli. Because air always moves from higher to lower pressure, inhalation occurs. Air continues to flow into the lungs as long as a pressure difference exists. During deep, forceful inhalations, accessory muscles of inspiration also participate in increasing the size of the thoracic cavity. These muscles are so named because they make little, if any, contribution during normal quiet inhalation, but during exercise or forced ventilation they may contract vigorously. The accessory muscles of inhalation include the sternocleidomastoid muscles, which elevate the sternum; the scalene muscles, which elevate the first two ribs; and the pectoralis minor muscles, which elevate the third through fifth ribs. Because both normal quiet inhalation and inhalation during exercise or forced ventilation involve muscular contraction, the process of inhalation is said to be active.
+
+EXHALATION
+
+Breathing out, or exhalation, is driven by a pressure gradient in the opposite direction: the pressure in the lungs is greater than atmospheric pressure. Normal exhalation during quiet breathing is a passive process because no muscular contractions are involved. Exhalation results from the elastic recoil of the chest wall and lungs, which tend to spring back after being stretched. Two inwardly directed forces contribute to elastic recoil: the rebound of elastic fibers stretched during inhalation, and the inward pull of surface tension from the thin film of alveolar fluid. Exhalation starts when the inspiratory muscles relax. As the diaphragm relaxes, its dome moves superiorly due to its elasticity. As the external intercostals relax, the ribs are depressed. These movements decrease the vertical, lateral, and anteroposterior dimensions of the thoracic cavity, reducing lung volume. Consequently, the alveolar pressure rises to about 762 mmHg, and air flows from the alveoli to the atmosphere.
+
+Exhalation becomes an active process only during forceful breathing, such as when playing a wind instrument or during intense exercise. At those times, the abdominal and internal intercostal muscles contract, increasing pressure in the abdominal region and thorax. Contraction of the abdominal muscles further elevates intra-abdominal pressure and aids in expelling air.
+
+The contraction moves the inferior ribs downward and compresses the abdominal viscera, thereby forcing the diaphragm superiorly. Contraction of the internal intercostals, which extend inferiorly and posteriorly between adjacent ribs, pulls the ribs inferiorly. Although intrapleural pressure is always less than alveolar pressure, it may briefly exceed atmospheric pressure during a forceful exhalation, such as during a cough.
+
+Other factors affecting pulmonary ventilation
+As you have just learned, air pressure differences drive airflow during inhalation and exhalation. However, three other factors affect the rate of airflow and the ease of pulmonary ventilation: surface tension of the alveolar fluid, compliance of the lungs, and airway resistance.
+
+Surface tension of alveolar fluid
+As noted earlier, a thin layer of alveolar fluid coats the luminal surface of alveoli and exerts a force known as surface tension. Surface tension arises at all air-water interfaces because the polar water molecules are more strongly attracted to each other than they are to gas molecules in the air. When liquid surrounds a sphere of air, as in an alveolus or a soap bubble, surface tension produces an inwardly directed force. Soap bubbles burst because they collapse inward due to surface tension. In the lungs, surface tension causes the alveoli to assume the smallest possible diameter. During breathing, surface tension must be overcome to expand the lungs during each inhalation. Surface tension also accounts for two-thirds of lung elastic recoil, which decreases the size of alveoli during exhalation. The surfactant (a mixture of phospholipids and lipoproteins) present in alveolar fluid reduces its surface tension below the surface tension of pure water. A deficiency of surfactant in premature infants causes respiratory distress syndrome, in which the surface tension of alveolar fluid is greatly increased, so that many alveoli collapse at the end of each exhalation. Great effort is then needed at the next inhalation to reopen the collapsed alveoli.
+
+Compliance of the lungs
+Compliance refers to how much effort is required to stretch the lungs and chest wall. High compliance means that the lungs and chest wall expand easily; low compliance means that they resist expansion. By analogy, a thin balloon that is easy to inflate has high compliance, and a heavy and stiff balloon that takes a lot of effort to inflate has low compliance. In the lungs, compliance is related to two principal factors: elasticity and surface tension. The lungs normally have high compliance and expand easily because elastic fibres in lung tissue are easily stretched and surfactant in alveolar fluid reduces surface tension. Decreased compliance is a common feature in pulmonary conditions that (1) scar lung tissue (for example, tuberculosis), (2) cause lung tissue to become filled with fluid (pulmonary oedema), (3) produce a deficiency in surfactant, or (4) impede lung expansion in any way (for example, paralysis of the intercostal muscles). Nevertheless, increased lung compliance occurs in emphysema (see “Disorders: Homeostatic imbalances” at the end of the chapter) due to destruction of elastic fibres in alveolar walls and therefore poor elastic recoil.
+
+CLINICAL CONNECTION
+Tuberculosis and airflow obstruction: importance of treatment
+Chronic obstructive pulmonary disease (COPD) involves a slow, progressive destruction of lung tissue and inherent obstruction of airflow through the lower conducting airways. Cigarette smoking is a known risk factor for the development of COPD but other environmental and occupational particles can also contribute to the development of the disease. For individuals who develop a progressive decline in lung function, simple activities of daily living become impossible to achieve as supply of oxygen to the body's tissues becomes limited. In t
+
+In the most severe cases, patients require continual oxygen therapy to live. Chronic obstructive pulmonary disease (COPD) is a disease commonly seen in older adults and is linked to long-term exposure to pollutants. Airflow obstruction can also arise from untreated lung infections. Of particular concern is tuberculosis (TB). TB is an infection that can cause lasting damage to lung tissue if not treated successfully, and it often requires more than one antibiotic. When exposure to TB occurs early in life, this can have long-term respiratory consequences.
+
+In a recent study involving Australian researchers from a university, lung function was assessed in a population of low-socioeconomic-status individuals living in Peru. The study compared people with known drug-susceptible TB or multidrug-resistant TB to a matched control group from the same community. Interestingly, although clinically cured, those who had prior TB showed poorer lung function than the controls. Those with cured drug-susceptible TB had airflow difficulties, while those with multidrug-resistant TB had both airflow issues and reduced lung volume. Both reduced lung volume and airway obstruction are indicators of diminished lung function and limit the effective ventilation of the alveoli. The study’s findings indicate that early diagnosis and successful treatment are critical for minimizing long-term damage. TB rates in New Zealand are among the lowest in the world, and when cases do arise they are treated seriously.
+
+Airway resistance
+Like the flow of blood through vessels, the rate of airflow through the airways depends on both the pressure difference and the resistance: airflow equals the pressure difference between the alveoli and the atmosphere divided by the resistance. The walls of the airways, especially the bronchioles, offer some resistance to the normal flow of air into and out of the lungs. As the lungs expand during inhalation, the bronchioles enlarge because their walls are pulled outward in all directions. Larger-diameter airways have decreased resistance. Airway resistance increases during exhalation as the bronchioles narrow. Airway diameter is also regulated by the degree of contraction or relaxation of smooth muscle in the walls of the airways. Signals from the sympathetic division of the autonomic nervous system cause relaxation of this smooth muscle, which results in bronchodilation and decreased resistance. Any condition that narrows or obstructs the airways increases resistance, so more pressure is required to maintain the same airflow. The hallmark of asthma or COPD—emphysema or chronic bronchitis—is increased airway resistance due to obstruction or collapse of the airways.
+
+Breathing patterns and modified breathing movements
+The normal pattern of quiet breathing is eupnea. Eupnea can consist of shallow, deep, or a combination of shallow and deep breathing. A pattern of shallow (chest) breathing, called costal breathing, involves an upward and outward movement of the chest due to contraction of the external intercostal muscles. A pattern of deep (abdominal) breathing, called diaphragmatic breathing, consists of the outward movement of the abdomen as the diaphragm contracts and moves downward.
+
+Breathing also provides humans with methods for expressing emotions such as laughing, sighing, and sobbing, and can be used to expel foreign matter from the lower air passages through actions such as sneezing and coughing. Breathing movements are also modified and controlled during talking and singing. Some of these modified breathing movements express emotion or clear the airways.
+
+The movements listed are reflexes, though some can be initiated voluntarily.
+
+CLINICAL CONNECTION
+Respiratory muscle training for COPD patients
+
+Obstructive disorders are broadly characterized by alterations to the conducting airways, increasing the resistance and making the rate of airflow difficult to achieve. In 2011–2012, the number of hospitalisations for COPD approached 60,000. Although deaths have reduced since the 1970s, there is an increased need to improve quality of life in those people now living longer. As airways narrow and the lungs become obstructed from ventilating the lungs, the effort to breathe, even at rest, can become laborious and difficult. Ventilation of the lungs requires basic principles of pressure and volume, and this work is greater for people with COPD due to the obstruction to airflow. Like any skeletal muscle, respiratory muscles are not protected from fatigue. Resistive breathing devices are used with the person in resting state, usually sitting down, and breathing through the mouthpiece. The effort required to inhale or exhale can be adjusted to target the diaphragm and intercostal muscles. Studies in patients are now demonstrating that specific inspiratory and expiratory muscle training stimulates the respiratory muscle function. In COPD patients, the respiratory training effects underpin improved exercise tolerance and reduced effort of breathing. The impact of stronger and less fatigable respiratory muscles can potentially mean that people living with COPD can improve their quality of life and carry out more activities of daily living on their own.
+
+CHECKPOINT 12. What are the basic differences among pulmonary movements?
+
+23.3 Lung volumes and capacities
+
+Learning objective 23.3: Differentiate between the different lung volumes and capacities.
+
+At rest, a healthy adult averages 12 breaths per minute, and each inhalation and exhalation moves about 500 mL of air into and out of the lungs. The volume of one breath is the tidal volume (Vt). The minute ventilation (MV)—the total volume of air inhaled and exhaled each minute—is the respiratory rate multiplied by tidal volume: MV = 12 breaths/min × 500 mL/breath ≈ 6 litres/min. A value lower than normal minute ventilation usually signals pulmonary malfunction.
+
+The apparatus commonly used to measure the volume of air exchanged during breathing and the respiratory rate is a spirometer or respirometer. The record produced is a spirogram. Inhalation is recorded as an upward deflection, and exhalation as a downward deflection. The spirogram of lung volumes and capacities is interpreted from the start of the record to the end.
+
+Tidal volume varies considerably from one person to another and in the same person at different times. In a typical adult, about 70% of the tidal volume (approximately 350 mL) actually reaches the respiratory zone—the respiratory bronchioles, alveolar ducts, alveolar sacs, and alveoli—and participates in external respiration. The remaining 30% (about 150 mL) stays in the conducting airways of the nose, pharynx, larynx, trachea, bronchi, bronchioles, and terminal bronchioles. Collectively, the conducting airways with air that does not undergo respiratory exchange are known as the anatomic (respiratory) dead space. A handy rule of thumb for determining the volume of the anatomic dead space is that it is about the same in milliliters as your ideal body weight in pounds. Not all of the minute ventilation can be used in gas exchange because some air remains in the anatomic dead space. The alveolar ventilation rate is the volume of air per minute that actually reaches the respiratory zone. In the example given, the alveolar ventilation rate would be 350 mL/breath × 12 breaths/min = 4,200 mL/min.
+
+Several other lung volumes are defined relative to forceful breathing. In general, these volumes are larger in males, taller individuals, and younger adults, and smaller in females, shorter individuals, and the elderly. Various disorders may be diagnosed by comparing actual values with predicted normal values for a patient's gender, height, and age. The values given here are averages for young adults. By taking a very deep breath, you can inhale more than 500 mL, and this additional air—the inspiratory reserve volume—is the extra amount that can be drawn into the lungs beyond the tidal volume.
+
+Question A
+A 19-year-old male student has a vital capacity of 5 L, tidal volume of 0.5 L, inspiratory capacity of 3.5 L, and functional residual capacity of 2.5 L. What is his expiratory reserve volume?
+
+Tidal volume varies considerably from one person to another and in the same person at different times. In a typical adult, about 70% of the tidal volume (approximately 350 mL) actually reaches the respiratory zone of the respiratory system—the respiratory bronchioles, alveolar ducts, alveolar sacs, and alveoli—and participates in external respiration. The other 30% (about 150 mL) remains in the conducting airways of the nose, pharynx, larynx, trachea, bronchi, bronchioles, and terminal bronchioles. Collectively, the conducting airways with air that does not undergo respiratory exchange are known as the anatomic (respiratory) dead space. (An easy rule of thumb for determining the volume of your anatomic dead space is that it is about the same in milliliters as your ideal weight in pounds.) Not all of the minute ventilation can be used in gas exchange because some of it remains in the anatomic dead space. The alveolar ventilation rate is the volume of air per minute that actually reaches the respiratory zone. In the example just given, the alveolar ventilation rate would be 350 mL/breath × 12 breaths/min = 4,200 mL/min.
+
+Several other lung volumes are defined relative to forceful breathing. In general, these volumes are larger in males, taller individuals, and younger adults, and smaller in females, shorter individuals, and the elderly. Various disorders also may be diagnosed by comparison of actual and predicted normal values for a patient’s gender, height, and age. The values given here are averages for young adults. By taking a very deep breath, you can inhale a good deal more than 500 mL. This additional inhaled air, called the inspiratory reserve volume, is the extra amount of air that can be inhaled beyond the tidal volume.
+
+In an average adult male, the inspiratory reserve volume is about 3100 mL, while in an average adult female it is about 1900 mL. Even more air can be inhaled if inhalation follows forced exhalation. If you inhale normally and then exhale as forcibly as possible, you can push out considerably more air beyond the 500 mL of tidal volume. The extra 1200 mL in males and 700 mL in females is the expiratory reserve volume.
+
+The forced expiratory volume in 1 second (FEV1) is the volume of air that can be exhaled from the lungs in one second with maximal effort following a maximal inhalation. Typically, chronic obstructive pulmonary disease (COPD) greatly reduces FEV1 because COPD increases airway resistance. Even after the expiratory reserve volume is exhaled, a considerable amount of air remains in the lungs because the subatmospheric intrapleural pressure keeps the alveoli slightly inflated, and some air remains in the noncollapsible airways. This volume, which cannot be measured by spirometry, is the residual volume and amounts to about 1200 mL in males and 1100 mL in females. If the thoracic cavity is opened, the intrapleural pressure rises to equal the atmospheric pressure and forces out some of the residual volume. The air remaining is called the minimal volume. Minimal volume provides a medical and legal tool for determining whether a baby is born dead (stillborn) or died after birth. The presence of minimal volume can be demonstrated by placing a piece of lung in water and observing whether it floats. Fetal lungs contain no air, so the lung of a stillborn baby will not float.
+
+Lung capacities are combinations of specific lung volumes. Inspiratory capacity is the sum of tidal volume and inspiratory reserve volume: 500 mL + 3100 mL equals 3600 mL in males and 500 mL + 1900 mL equals 2400 mL in females. Functional residual capacity is the sum of residual volume and expiratory reserve volume: 1200 mL + 1200 mL equals 2400 mL in males and 1100 mL + 700 mL equals 1800 mL in females. Vital capacity is the sum of inspiratory reserve volume, tidal volume, and expiratory reserve volume: 4800 mL in males and 3100 mL in females. Finally, total lung capacity is the sum of vital capacity and residual volume: 6000 mL in males and 4200 mL in females.
+
+SPORT SPOTLIGHT The 'athlete' soldier and respiratory function
+Carrying a load, such as a heavy backpack, is common in many recreational activities like hiking and long-distance trekking. There are also many occupations that require personnel to carry heavy loads on the torso, including firefighters, park rangers, and Defence Force personnel. Soldiers often carry around 20 kilograms of equipment and body protection, and sometimes more than 50 kilograms as required to survive for extended durations. These loads are typically carried around the torso as a backpack and body armor. Walking or marching with this mass requires a dramatic increase in energy. Therefore, to meet the demands, the respiratory system must increase the ventilation of the alveoli to achieve adequate oxygen uptake. Therein lies the physiological conundrum. Researchers have been conducting a series of studies to quantify the impact of each breath on respiratory function and exercise performance. The load surrounding the torso makes it difficult to expand the rib cage. In a recent investigation, young healthy participants were required to carry 22 kilograms on the torso while their maximal aerobic power and exercise tolerance were measured. The team compared the effects to firstly, not carrying any load, and secondly, when carrying 22 kilograms.
+
+The chest was restrained by a non-elastic strap, and carrying the load on the torso did not reduce maximal aerobic power. However, it did shorten the total time participants could sustain exercise. Interestingly, as the backpack arrangement restricted the ribcage, breathing frequency was favored over tidal volume to achieve the required ventilation. Ratings of dyspnea rose during load carriage, and this tendency was partly evident during chest strapping as well, indicating that carrying a load around the torso restricts rib movement during inhalation. For a soldier carrying very heavy loads as part of daily duties, the respiratory muscles—including the diaphragm, the external intercostals, and the accessory muscles of respiration—must work harder to achieve the necessary pulmonary ventilation. Further research is underway to identify potential respiratory training techniques to enhance the “athlete” soldier’s capacity to carry very heavy loads.
+
+CHECKPOINT 16. What is a spirometer? 
+17. What is the difference between a lung volume and a lung capacity? 
+18. How is minute ventilation calculated? 
+19. Define alveolar ventilation rate and FEV1.
+
+LEARNING OBJECTIVE 23.4
+Exchange of oxygen and carbon dioxide
+
+LEARNING OBJECTIVE 23.4 Understand the exchange of oxygen and carbon dioxide, including the involvement of Dalton’s law and Henry’s law.
+
+The exchange of oxygen and carbon dioxide between alveolar air and pulmonary blood occurs via passive diffusion, which is governed by the behavior of gases as described by two gas laws: Dalton’s law and Henry’s law. Dalton’s law is important for understanding how gases move down their pressure gradients by diffusion, and Henry’s law helps explain how the solubility of a gas relates to its diffusion.
+
+Gas laws: Dalton’s law and Henry’s law
+According to Dalton’s law, each gas in a mixture of gases exerts its own pressure as if no other gases were present. The pressure of a specific gas in a mixture is called its partial pressure (P gas); the subscript denotes the gas. The total pressure of the mixture is calculated by adding all of the partial pressures. Atmospheric air is a mixture of nitrogen (N2), oxygen (O2), argon (Ar), carbon dioxide (CO2), varying amounts of water vapor (H2O), and other gases present in small quantities. Atmospheric pressure is the sum of the pressures of all of these gases: Ptotal = PN2 + PO2 + PAr + PCO2 + Pother + PH2O.
+
+Atmospheric air is approximately 78.6% nitrogen, 20.9% oxygen, 0.093% argon, 0.04% carbon dioxide, and 0.06% other gases, with a variable amount of water vapor. The partial pressures of the gases in inspired air are roughly:
+- PN2 ≈ 597.4 mmHg
+- PO2 ≈ 158.8 mmHg
+- PAr ≈ 0.7 mmHg
+- PCO2 ≈ 2.3 mmHg
+- Pother ≈ 0.5 mmHg
+- PH2O varies with humidity and temperature but is present in inspired air
+
+Total = 760.0 mmHg
+
+These partial pressures determine the movement of O2 and CO2 between the atmosphere and the lungs, between the lungs and the blood, and between the blood and the body’s cells. Gases diffuse across a permeable membrane from the area of higher partial pressure to the area of lower partial pressure, and the greater the difference in partial pressure, the faster the rate of diffusion. Compared with inhaled air, alveolar air contains less O2 (about 13.6% versus 20.9%) and more CO2 (about 5.2% versus 0.04%) for two reasons. First, alveolar air is a mixture that includes residual air in the lungs and air from the dead space; second, gas exchange with the blood alters the composition as O2 is consumed and CO2 is released, while the air is also humidified.
+
+Gas exchange in the alveoli raises the CO2 content and lowers the O2 content of alveolar air. When air is inhaled, it is humidified as it travels along the moist mucosal linings. As the water vapor content of the air increases, the relative percentage of O2 decreases. In contrast, exhaled air contains more O2 than alveolar air (about 16% versus 13.6%) and less CO2 (about 4.5% versus 5.2%), because some of the air we exhale came from the anatomic dead space and did not participate in gas exchange. Exhaled air is thus a mixture of alveolar air and inhaled air that was in the dead space.
+
+Henry's law states that the quantity of a gas dissolved in a liquid is proportional to the partial pressure of the gas and its solubility. In body fluids, a gas remains in solution more readily when its partial pressure is higher and when it has higher solubility in water. The higher the partial pressure of a gas over a liquid and the greater its solubility, the more gas stays in solution. Compared with oxygen, much more CO2 dissolves in blood plasma because the solubility of CO2 is about 24 times greater than that of O2. Although the air we breathe contains mostly nitrogen, this gas has no known effect on bodily functions, and at sea level pressure very little of it dissolves in blood plasma because its solubility is very low.
+
+An everyday experience demonstrates Henry's law. You may have noticed that a soft drink hisses when the cap is removed and bubbles rise to the surface for a time afterwards. The gas dissolved in carbonated beverages is CO2. Because the soft drink is bottled or canned under high pressure and capped, CO2 remains dissolved as long as the container is unopened. Once you remove the cap, the pressure falls and the gas begins to bubble out of solution.
+
+Henry's law also explains two conditions that arise from changes in the solubility of nitrogen in body fluids. Although the air we breathe contains about 79% nitrogen, this gas has no known effect on bodily functions, and very little of it dissolves in blood plasma because of its low solubility at sea level pressure. As the total air pressure increases, the partial pressures of all of its gases increase. When a scuba diver breathes air under high pressure, the nitrogen in the gas mixture can have serious effects. Because the partial pressure of nitrogen is higher under compressed air than at sea level, a considerable amount of nitrogen dissolves in plasma and interstitial fluid. Excessive dissolved nitrogen can produce giddiness and other symptoms similar to alcohol intoxication. This condition is called nitrogen narcosis, or “rapture of the deep.” If a diver ascends slowly, the dissolved nitrogen can be eliminated by exhalation. If, however, the ascent is too rapid, nitrogen comes out of solution too quickly and forms gas bubbles in the tissues, resulting in decompression sickness, or the bends. Decompression sickness effects typically arise from bubbles in nervous tissue and can range from mild to severe, depending on the number of bubbles formed. Symptoms include joint pain (especially in the arms and legs), dizziness, shortness of breath, extreme fatigue, paralysis, and unconsciousness.
+
+CLINICAL CONNECTION
+Hyperbaric oxygenation is achieved in a hyperbaric chamber, which contains oxygen at a pressure greater than 1 atmosphere (760 mmHg). A major clinical application of this approach—often framed by Henry’s law—is to increase the amount of dissolved O2 in the blood and thereby improve tissue oxygenation and help kill anaerobic bacteria. Hyperbaric chambers may also be used for treating carbon monoxide poisoning, gas embolisms, crush injuries, cerebral edema, and certain hard-to-treat bone infections, including gangrene.
+
+External respiration
+
+External respiration, or pulmonary gas exchange, is the diffusion of oxygen from the air in the alveoli into the blood in the pulmonary capillaries, and the diffusion of carbon dioxide in the opposite direction. In the lungs, deoxygenated blood returning from the right side of the heart becomes oxygenated as it picks up oxygen and releases carbon dioxide to the alveolar air, then returns to the left side of the heart. As blood flows through the pulmonary capillaries, it picks up oxygen from the alveolar air and unloads carbon dioxide into the alveolar air. Although this process is commonly called an exchange of gases, each gas diffuses independently from the area where its partial pressure is higher to the area where its partial pressure is lower.
+
+In resting conditions, the partial pressure of oxygen in alveolar air is about 105 mmHg, while the partial pressure of oxygen in the blood of the pulmonary capillaries is about 40 mmHg. If you have been exercising, the capillary PO2 will be even lower because contracting muscles use more oxygen. Diffusion continues until the PO2 of the pulmonary capillary blood rises to match the PO2 of the alveolar air, around 105 mmHg. Because blood leaving the pulmonary capillaries near the alveolar spaces mixes with blood that has flowed through conducting airways where no gas exchange occurs, the PO2 of blood in the pulmonary veins is slightly less than in the capillaries, about 100 mmHg.
+
+While oxygen diffuses from alveolar air into deoxygenated blood, carbon dioxide diffuses in the opposite direction. The venous blood arriving at the alveoli has a PCO2 of about 45 mmHg, while the alveolar air has a PCO2 of about 40 mmHg. Because of this difference, carbon dioxide diffuses from the deoxygenated blood into the alveoli until the blood’s PCO2 decreases to about 40 mmHg. Exhalation maintains the alveolar PCO2 at about 40 mmHg. Consequently, oxygenated blood returning to the left side of the heart in the pulmonary veins has a PO2 of about 100 mmHg.
+
+7 Changes in partial pressures of oxygen and carbon dioxide (in mmHg) during external and internal respiration. Gases diffuse from areas of higher partial pressure to areas of lower partial pressure. Atmospheric air: O2 partial pressure about 159 mmHg; CO2 about 0.3 mmHg. In the alveoli: O2 about 105 mmHg; CO2 about 40 mmHg. In the blood of the pulmonary capillaries: O2 about 40 mmHg; CO2 about 45 mmHg. In the pulmonary veins and left atrium: O2 about 100 mmHg; CO2 about 40 mmHg.
+
+Internal respiration
+
+Internal respiration is the gas exchange between systemic capillaries and tissue cells. Oxygen diffuses from the systemic arterial blood (PO2 about 100 mmHg) into tissue cells (PO2 about 40 mmHg), while carbon dioxide diffuses from tissue cells (PCO2 about 45 mmHg) into the systemic capillaries (PCO2 about 40 mmHg).
+
+Question
+
+What causes oxygen to enter pulmonary capillaries from alveoli and to enter tissue cells from systemic capillaries?
+
+The number of capillaries near the alveoli in the lungs is very large, and blood flows slowly enough through these capillaries that it can pick up as much oxygen as possible. During vigorous exercise, when cardiac output increases, blood moves more rapidly through both the systemic and pulmonary circulations. As a result, the transit time of blood through the pulmonary capillaries is shorter. Nevertheless, the PO2 of blood in the pulmonary veins normally reaches about 100 mmHg. In diseases that reduce the rate of gas diffusion, blood may not come into full equilibrium with alveolar air, especially during exercise.
+
+Internal respiration
+
+When this happens, the PO2 declines and the PCO2 rises in systemic capillary blood as O2 leaves the bloodstream and CO2 from tissue cells enters it. The left ventricle pumps oxygenated blood into the aorta and through the systemic arteries to the systemic capillaries. The exchange of O2 and CO2 between systemic capillaries and tissue cells is called internal respiration or systemic gas exchange. As O2 leaves the blood, oxygenated blood becomes deoxygenated. Unlike external respiration, which occurs only in the lungs, internal respiration occurs in tissues throughout the body. The PO2 of blood entering the systemic capillaries is higher (about 100 mmHg) than the PO2 in tissue cells (about 40 mmHg at rest) because the cells constantly use O2 to produce ATP. Due to this pressure difference, O2 diffuses out of the capillaries into tissue cells, and the PO2 in the blood drops to about 40 mmHg by the time the blood exits the systemic capillaries. Meanwhile, CO2 diffuses from tissue cells into the systemic capillaries. Because tissue cells are constantly producing CO2, the PCO2 of the cells (about 45 mmHg at rest) is higher than that of the systemic capillary blood (about 40 mmHg). As a result, CO2 diffuses from tissue cells through interstitial fluid into the systemic capillaries until the PCO2 in the blood increases to about 45 mmHg. The deoxygenated blood then returns to the heart and is pumped to the lungs for another cycle of external respiration.
+
+In a person at rest, tissue cells, on average, need only about 25% of the available O2 in oxygenated blood; despite its name, deoxygenated blood retains about 75% of its O2 content. During exercise, more O2 diffuses from the blood into metabolically active cells, such as contracting skeletal muscle fibers. Active cells use more O2 for ATP production, causing the O2 content of deoxygenated blood to drop below 75%.
+
+The rate of pulmonary and systemic gas exchange depends on several factors.
+
+Partial pressure difference of the gases
+Alveolar PO2 must be higher than blood PO2 for oxygen to diffuse from alveolar air into the blood. The rate of diffusion is faster when the difference between PO2 in alveolar air and in pulmonary capillary blood is larger; diffusion is slower when the difference is smaller. The differences in PO2 and PCO2 between alveolar air and alveolar blood increase during exercise, accelerating diffusion. The partial pressures of O2 and CO2 in alveolar air also depend on the rate of airflow into and out of the lungs. Certain drugs (such as morphine) slow ventilation, thereby decreasing the amount of O2 and CO2 that can be exchanged between alveolar air and blood.
+
+Altitude
+With increasing altitude, the total atmospheric pressure decreases, as does the partial pressure of O2—from about 159 mmHg at sea level to about 110 mmHg at 10,000 feet, and about 73 mmHg at 20,000 feet. Although O2 remains 20.9% of the total, the PO2 of inspired air decreases with increasing altitude. Alveolar PO2 decreases accordingly, and O2 diffuses into the blood more slowly. The common signs and symptoms of high-altitude sickness—shortness of breath, headache, fatigue, insomnia, nausea, and dizziness—are due to the lower level of oxygen in the blood.
+
+Surface area available for gas exchange
+As you learned earlier, the surface area of the alveoli is enormous—about 70 m² (approximately 750 ft²). In addition, many capillaries surround each alveolus, so a large volume of blood participates in gas exchange at any given moment (as much as about 900 mL). Any pulmonary disorder that decreases the functional surface area of the respiratory membranes lowers the rate of external respiration. For example, in emphysema alveolar walls disintegrate, reducing surface area and slowing pulmonary gas exchange.
+
+Diffusion distance
+The respiratory membrane is very thin, so diffusion occurs rapidly. The capillaries are so narrow that red blood cells must pass through in single file, minimizing diffusion distance and facilitating oxygen and carbon dioxide exchange.
+
+arranged in a single file, which minimizes the diffusion distance from an alveolar air space to the haemoglobin inside red blood cells. The buildup of interstitial fluid between the alveoli, as occurs in pulmonary edema, slows the rate of gas exchange because it increases diffusion distance.
+
+Molecular weight and solubility of the gases
+Oxygen (O2) has a lower molecular weight than carbon dioxide (CO2), so one might expect O2 to diffuse across the respiratory membrane about 1.2 times faster. However, the solubility of CO2 in the fluid portions of the respiratory membrane is about 24 times greater than that of O2. Taking both factors into account, net outward diffusion of CO2 from blood to the alveoli occurs about 20 times more rapidly than net inward diffusion of O2 from the alveoli to the blood. Consequently, when diffusion is slower than normal—in conditions such as emphysema or pulmonary edema—oxygen insufficiency (hypoxia) typically occurs before there is significant retention of CO2 (hypercapnia).
+
+CLINICAL CONNECTION
+Hypoxia
+Hypoxia (hyp-OX-ee-a; hypo- = under) is a deficiency of oxygen at the tissue level. Based on the cause, it can be classified into four types:
+1. Hypoxic hypoxia is caused by a low arterial PO2 as a result of high altitude, airway obstruction, or fluid in the lungs.
+2. Anemic hypoxia occurs when there is too little functioning haemoglobin in the blood, reducing oxygen transport.
+3. Ischemic hypoxia (is-KE-mik) happens when blood flow to a tissue is so reduced that too little O2 is delivered, even though PO2 and oxyhaemoglobin levels may be normal.
+4. Histotoxic hypoxia (his-tox-ik) occurs when the blood delivers adequate O2 to tissues, but the tissues are unable to use it properly due to the action of a toxic agent. One cause is cyanide poisoning, which blocks an enzyme required for the use of O2 during ATP synthesis.
+
+Causes of hypoxia can include hemorrhage, anemia, and failure of haemoglobin to carry its normal complement of oxygen, as in carbon monoxide poisoning.
+
+CHECKPOINT 20
+Distinguish between Dalton's law and Henry's law and give a practical application of each.
+21. How does the partial pressure of oxygen change as altitude changes?
+22. What are the diffusion paths of oxygen and carbon dioxide during external and internal respiration?
+23. What factors affect the rate of diffusion of oxygen and carbon dioxide?
+23.5 Transport of oxygen and carbon dioxide
+LEARNING OBJECTIVE 23.5
+Describe how the blood transports oxygen and carbon dioxide.
+
+As you have already learned, the blood transports gases between the lungs and body tissues. When O2 and CO2 enter the blood, certain chemical reactions occur that aid in gas transport and gas exchange.
+
+Oxygen transport
+Oxygen does not dissolve easily in water, so only about 1.5% of inhaled O2 is dissolved in blood plasma, which is mostly water. About 98.5% of blood O2 is bound to haemoglobin in red blood cells. Each 100 mL of oxygenated blood contains the equivalent of about 20 mL of O2. Using the percentages just given, the amount dissolved in the plasma is about 0.3 mL and the amount bound to haemoglobin is about 19.7 mL. The haem portion of haemoglobin contains four atoms of iron, each capable of binding to a molecule of O2. Oxygen and haemoglobin bind in an easily reversible reaction to form oxyhaemoglobin:
+Hb + O2 ⇌ HbO2
+Reduced haemoglobin participates in the process of releasing O2 where needed.
+
+The 98.5% of the O2 that is bound to haemoglobin is carried inside red blood cells, so only the dissolved O2 (about 1.5%) can diffuse out of tissue capillaries into tissue cells. Therefore, it is important to understand the factors that promote O2 binding to and dissociation from haemoglobin. The relationship between haemoglobin and the partial pressure of oxygen is the most important factor that determines how much O2 binds to and dissociates from haemoglobin.
+
+Transport of oxygen (O2) and carbon dioxide (CO2) in the blood
+
+Oxygen binding to haemoglobin depends on the partial pressure of oxygen (PO2). The higher the PO2, the more O2 binds to haemoglobin. When haemoglobin is completely converted to oxyhaemoglobin (HbO2), it is fully saturated; when it contains a mixture of HbO2 and deoxygenated haemoglobin, it is only partially saturated. The percentage saturation expresses the average saturation of haemoglobin with oxygen. For example, if each haemoglobin molecule has bound two O2 molecules, the haemoglobin is 50% saturated because a molecule can carry a maximum of four O2 molecules.
+
+Transport of CO2 and O2 in the blood follows distinct patterns. Most CO2 is transported in plasma as bicarbonate ions (HCO3–). A portion is dissolved in plasma, and another portion is carried in the blood bound to haemoglobin as carbaminohaemoglobin. By contrast, most O2 is carried within red blood cells bound to haemoglobin as oxyhaemoglobin, with a small amount dissolved in plasma.
+
+Oxygen transport
+About 1.5% of the total oxygen is dissolved in plasma, and the remaining 98.5% is carried as oxyhaemoglobin within red blood cells.
+
+Carbon dioxide transport
+Approximately 7% of CO2 is dissolved in plasma, about 23% is carried as carbaminohaemoglobin bound to haemoglobin, and roughly 70% is transported as bicarbonate (HCO3–) in plasma.
+
+External respiration and internal respiration
+In the lungs, external respiration occurs as blood passes through the pulmonary capillaries. Gas exchange with the alveolar air allows oxygen to diffuse into the blood, forming oxyhaemoglobin, and carbon dioxide to diffuse from the blood into the alveolar air to be exhaled. In the systemic circulation, internal respiration takes place in the systemic capillaries: oxygen is released from haemoglobin to tissue cells, and carbon dioxide produced by cellular metabolism diffuses from tissues into the blood.
+
+Question
+What is the most important factor that determines how much O2 binds to haemoglobin?
+
+The relationship between the percent saturation of haemoglobin and PO2 is described by the oxygen-haemoglobin dissociation curve. When PO2 is high, haemoglobin binds large amounts of O2 and is almost 100% saturated. When PO2 is low, haemoglobin is only partially saturated. In pulmonary capillaries, where PO2 is high, a large amount of O2 binds to haemoglobin. In tissue capillaries, where PO2 is lower, haemoglobin does not hold as much O2, and the dissolved O2 diffuses into tissue cells.
+
+Note that haemoglobin remains about 75% saturated with O2 at a PO2 of 40 mmHg, the average PO2 of tissue cells in a person at rest. This underpins the statement that only about 25% of the available O2 unloads from haemoglobin and is used by tissue cells under resting conditions. The curve also explains why people can perform well at high altitudes or with certain cardiac or respiratory conditions even when PO2 falls to around 60 mmHg. At a considerably lower PO2, for example 40 mmHg, haemoglobin is still around 75% saturated, while at 20 mmHg saturation falls to about 35%. Between 40 and 20 mmHg, large amounts of O2 are released from haemoglobin with only small decreases in PO2. In active tissues such as contracting muscles, PO2 can drop well below resting values, leading to greater O2 unloading.
+
+At a partial pressure of 40 mmHg, a large percentage of oxygen is released from hemoglobin, delivering more oxygen to metabolically active tissues. Although PO2 is the most important factor determining the percent oxygen saturation of hemoglobin, several other factors influence the tightness with which hemoglobin binds oxygen. In effect, these factors shift the entire dissociation curve to the left (higher affinity) or to the right (lower affinity). The changing affinity of hemoglobin for oxygen is another example of how homeostatic mechanisms adjust body activities to cellular needs. Each factor makes sense when you remember that metabolically active tissue cells require oxygen and produce acids, carbon dioxide, and heat as wastes.
+
+The following four factors affect the affinity of hemoglobin for oxygen:
+
+1. Acidity (pH)
+As acidity increases (pH decreases), the affinity of hemoglobin for oxygen decreases, and oxygen dissociates more readily from hemoglobin. The main acids produced by metabolically active tissues are lactic acid and carbonic acid. When pH decreases, the entire oxygen-hemoglobin dissociation curve shifts to the right; at any given PO2, hemoglobin is less saturated with oxygen—a change known as the Bohr effect. The Bohr effect works both ways: an increase in hydrogen ions in the blood promotes oxygen unloading from hemoglobin, and the binding of oxygen to hemoglobin promotes unloading of hydrogen ions. Hemoglobin can buffer hydrogen ions, but when hydrogen ions bind to amino acids in hemoglobin, they alter its structure slightly, reducing its oxygen-carrying capacity. Thus, a lowered pH drives oxygen off hemoglobin, making more oxygen available to tissue cells. By contrast, elevated pH increases the affinity of hemoglobin for oxygen and shifts the curve to the left.
+
+2. Partial pressure of carbon dioxide
+Carbon dioxide can also bind to hemoglobin, and its effect is similar to that of hydrogen ions, shifting the curve to the right. As PCO2 rises, hemoglobin releases oxygen more readily. Carbon dioxide entering the blood is largely converted to carbonic acid by the enzyme carbonic anhydrase in red blood cells: CO2 + H2O ⇌ H2CO3, which dissociates into hydrogen ions and bicarbonate. The carbonic acid thus formed increases hydrogen ion concentration, lowering pH. Consequently, higher CO2 promotes oxygen release from hemoglobin. During exercise, lactic acid produced by anaerobic metabolism within muscles also lowers blood pH. Decreased PCO2 (and elevated pH) shifts the saturation curve to the left.
+
+3. Temperature
+Within physiological limits, higher temperature increases the amount of oxygen released from hemoglobin. Heat is a by-product of metabolic reactions in all cells, and the heat released by contracting muscle fibers tends to raise body temperature. Metabolically active cells require more oxygen and produce more acids and heat, and this combination promotes the release of oxygen from oxyhemoglobin. Fever can produce a similar effect. In contrast, during hypothermia, cellular metabolism slows, the need for oxygen diminishes, and more oxygen remains bound to hemoglobin, shifting the curve to the left.
+
+4. BPG (2,3-bisphosphoglycerate)
+A substance found in red blood cells called 2,3-bisphosphoglycerate decreases the affinity of hemoglobin for oxygen.
+
+2,3-bisphosphoglycerate (BPG) is formed in red blood cells during glycolysis, the breakdown of glucose that provides ATP. BPG binds to hemoglobin by attaching to the terminal amino groups of the two beta globin chains, causing hemoglobin to release oxygen more readily from the heme groups. The higher the level of BPG, the more O2 is unloaded from hemoglobin. Several hormones increase the formation of BPG, including thyroxine, human growth hormone, epinephrine, norepinephrine, and testosterone. BPG levels are also higher in people living at higher altitudes.
+
+Oxygen-hemoglobin dissociation curves
+These curves illustrate the relationship of pH and the partial pressure of carbon dioxide (Pco2) with hemoglobin saturation at normal body temperature. When pH increases, hemoglobin binds O2 more tightly, so less O2 is released to tissues. When pH decreases, the affinity of hemoglobin for O2 declines, and more O2 is available to tissues. The broken lines in the original illustration emphasize these relationships. High blood pH tends to make O2 bind more tightly, while low blood pH promotes O2 unloading.
+
+Question: In comparison with the value when you are sitting, is the affinity of your hemoglobin for O2 higher or lower when you are exercising? How does this benefit you?
+
+Oxygen-hemoglobin dissociation curves showing the effect of temperature changes
+As temperature increases, the affinity of hemoglobin for O2 decreases. At low temperature (around 20°C, 68°F), the affinity is higher; at normal body temperature (37°C, 98.6°F) it is lower; and at higher temperatures (for example, around 43°C, 110°F) it decreases further. This means that at higher temperatures, more O2 is available to tissues. Question: Is O2 more available or less available to tissue cells when you have a fever? Why?
+
+Oxygen affinity of fetal and adult hemoglobin
+Fetal hemoglobin (Hb-F) differs from adult hemoglobin (Hb-A) in both structure and oxygen affinity. Hb-F has a higher affinity for O2 because it binds BPG less strongly. Consequently, when PO2 is low, Hb-F can carry up to about 30% more O2 than maternal Hb-A. As maternal blood enters the placenta, oxygen is readily transferred to fetal blood, which is crucial because the oxygen saturation in maternal blood within the placenta is relatively low. The higher affinity of Hb-F for O2 supports oxygen delivery to the developing fetus.
+
+Oxygen-hemoglobin curves comparing fetal and maternal hemoglobin
+Foetal hemoglobin has a higher affinity for O2 than adult hemoglobin, a difference reflected in the comparative curves for fetal and maternal hemoglobin.
+
+Question: The PO2 of placental blood is about 40 mmHg. What are the O2 saturations of maternal and fetal hemoglobin at this PO2?
+
+Clinical Connection: Carbon monoxide poisoning
+Carbon monoxide (CO) is a colorless and odorless gas found in exhaust fumes from automobiles, gas furnaces and space heaters, and in tobacco smoke. It is a byproduct of the combustion of carbon-containing materials such as coal, gas, and wood. CO binds to the heme group of hemoglobin in the same site as O2, but binding of CO to hemoglobin is over 200 times stronger than binding of O2. As a result, CO markedly reduces the blood’s capacity to carry oxygen and impairs oxygen delivery to tissues.
+
+Carbon dioxide transport
+
+Under normal resting conditions, each 100 milliliters of deoxygenated blood contains the equivalent of about 53 milliliters of gaseous CO2. CO2 is transported in the blood in three main forms.
+
+First, dissolved CO2. About 7% of the CO2 is dissolved in blood plasma. When this CO2 reaches the lungs, it diffuses into the alveolar air and is exhaled.
+
+Second, carbamino compounds. Approximately 23% of CO2 binds with amino groups of amino acids and proteins in the blood to form carbamino compounds. Because haemoglobin is the most abundant protein inside red blood cells, most of the CO2 transported this way is bound to haemoglobin, forming carbaminohaemoglobin (Hb-CO). The main CO2 binding sites are the terminal amino acids in the two alpha and two beta globin chains. Haemoglobin that has bound CO is referred to as carbaminohaemoglobin. The formation of carbaminohaemoglobin is influenced by oxygen tension: in tissue capillaries, the partial pressure of oxygen is relatively high, which promotes formation of carbaminohaemoglobin; in pulmonary capillaries, the partial pressure of oxygen is relatively low, and CO2 readily dissociates from the globin and enters the alveoli by diffusion.
+
+Third, bicarbonate ions. The greatest portion of CO2—about 70%—is transported in plasma as bicarbonate ions (HCO3−). As CO2 diffuses into systemic capillaries and enters red blood cells, it reacts with water in the presence of the enzyme carbonic anhydrase to form carbonic acid, which dissociates into hydrogen ions (H+) and bicarbonate ions. The bicarbonate ions accumulate inside the red blood cells, and some move out into the plasma, while chloride ions (Cl−) move from plasma into the red blood cells to maintain electrical balance. This exchange of negative ions is known as the chloride shift. The net effect is that CO2 is removed from tissue cells and transported in plasma as bicarbonate. When blood passes through pulmonary capillaries in the lungs, these reactions reverse and CO2 is exhaled.
+
+The amount of CO2 that can be transported in the blood is influenced by the percentage saturation of haemoglobin with oxygen. The lower the level of oxyhaemoglobin, the higher the CO2-carrying capacity of the blood, a relationship known as the Haldane effect. Two characteristics of deoxyhaemoglobin give rise to this effect: first, deoxyhaemoglobin binds to and thus transports more CO2 than oxyhaemoglobin; second, deoxyhaemoglobin buffers more hydrogen ions than oxyhaemoglobin, thereby removing H+ from solution and promoting the conversion of CO2 to HCO3− via the carbonic anhydrase–catalyzed reaction.
+
+Summary of gas exchange and transport in lungs and tissues
+
+Deoxygenated blood returning to the pulmonary capillaries contains CO2 dissolved in plasma, CO2 bound to haemoglobin as carbaminohaemoglobin (Hb-CO), and CO2 incorporated into bicarbonate (HCO3−) within red blood cells. The red blood cells have also picked up H+, which is buffered by haemoglobin, and is therefore buffered by haemoglobin (Hb).
+
+23.6 Control of breathing
+Learning objective: Explain how the nervous system controls breathing.
+
+As blood passes through the pulmonary capillaries, carbon dioxide dissolved in plasma and that which dissociates from the globin portion of hemoglobin diffuses into alveolar air and is exhaled. At the same time, inhaled oxygen diffuses from the alveolar air into red blood cells and binds to hemoglobin to form oxyhemoglobin (HbO2). Carbon dioxide is also released from bicarbonate (HCO3−) formed inside red blood cells when hydrogen ions (H+) combine with bicarbonate. The bicarbonate formed from this reaction then splits into carbon dioxide and water; the carbon dioxide diffuses from the blood into the alveolar air to be exhaled. As the concentration of bicarbonate declines inside red blood cells in pulmonary capillaries, bicarbonate diffuses in from the blood plasma in exchange for chloride ions (the reverse chloride shift). In sum, oxygenated blood leaving the lungs has increased oxygen content and decreased amounts of carbon dioxide and hydrogen ions.
+
+In systemic capillaries, as cells use oxygen and produce carbon dioxide, the chemical reactions reverse.
+
+Summary of chemical reactions that occur during gas exchange
+
+(a) External respiration in the pulmonary capillaries:
+As carbon dioxide is exhaled, hemoglobin inside red blood cells unloads CO2 and picks up O2 from the alveolar air. Hydrogen ions released during carbon dioxide transport bind with bicarbonate, forming carbonic acid, which dissociates into water and CO2. The CO2 then diffuses from blood into the alveolar air to be exhaled. To maintain electrical balance, a chloride ion exits the red blood cell for each bicarbonate ion that enters (the chloride shift).
+
+(b) Internal respiration in the systemic capillaries:
+Carbon dioxide diffuses from tissue cells into red blood cells, where some of it binds to hemoglobin to form carbaminohemoglobin. This reaction promotes the release of oxygen from oxyhemoglobin (the Bohr effect). Other molecules of CO2 combine with water to form bicarbonate and hydrogen ions. As hemoglobin buffers the hydrogen ions, it releases oxygen. To maintain electrical balance, a chloride ion enters the red blood cell for each bicarbonate ion that leaves (chloride shift).
+
+Question:
+Would you expect the concentration of bicarbonate to be higher in blood plasma taken from a systemic artery or from a systemic vein?
+
+CHECKPOINT 24
+In a resting person, how many O2 molecules are attached to each hemoglobin molecule, on average, in blood in the pulmonary arteries? In blood in the pulmonary veins?
+
+CHECKPOINT 25
+What is the relationship between hemoglobin and O2? How do temperature, hydrogen ion concentration (pH), partial pressure of carbon dioxide (PCO2), and 2,3-bisphosphoglycerate (2,3-BPG) influence the affinity for O2?
+
+CHECKPOINT 26
+Why can hemoglobin unload more oxygen as blood flows through capillaries of metabolically active tissues, such as skeletal muscle during exercise, than is unloaded at rest?
+
+23.6 Control of breathing (continued)
+Learning objective: Explain how the nervous system controls breathing.
+
+At rest, about 200 mL of O2 is used each minute by body cells. During strenuous exercise, O2 use typically increases 15- to 20-fold in normal healthy adults, and as much as 30-fold in elite endurance-trained athletes. Several mechanisms help match breathing effort to metabolic demand. The respiratory center is responsible for regulating the rate and depth of breathing. The size of the thorax is altered by the action of the breathing muscles, which contract in response to nerve impulses transmitted from centers in the brain and relax in the absence of nerve impulses. These nerve impulses originate from clusters of neurons located bilaterally in the brain stem, collectively known as the respiratory center. This group can be divided into two principal areas on the basis of their anatomical locations and functions.
+
+Locations and functions: the medullary respiratory centre in the medulla oblongata and the pontine respiratory group in the pons.
+
+Medullary respiratory centre
+
+The medullary respiratory centre comprises two neuron groups: the dorsal respiratory group (DRG), formerly known as the inspiratory area, and the ventral respiratory group (VRG), formerly known as the expiratory area. During normal quiet breathing, neurons of the DRG generate impulses that travel to the diaphragm via the phrenic nerves and to the external intercostal muscles via the intercostal nerves. These impulses are released in bursts that begin weakly, increase in strength for about two seconds, and then stop altogether. When the nerve impulses reach the diaphragm and external intercostals, the muscles contract and inhalation occurs. When the DRG becomes inactive after about two seconds, the diaphragm and external intercostals relax for about three seconds, allowing the passive recoil of the lungs and thoracic wall. Then the cycle repeats itself.
+
+Within the VRG there is a cluster of neurons called the pre-Bötzinger complex, believed to be important in the generation of the rhythm of breathing. This rhythm generator, analogous to the heart’s pacemaker, is composed of pacemaker cells that set the basic rhythm of breathing. The exact mechanism of these pacemaker cells is unknown and remains the topic of ongoing research. However, it is thought that the pacemaker cells provide input to the DRG, driving the rate at which DRG neurons fire. The remaining neurons of the VRG do not participate in normal quiet breathing.
+
+The VRG becomes activated when forceful breathing is required, such as during exercise, when playing a wind instrument, or at high altitudes. During forceful inhalation, nerve impulses from the DRG not only stimulate the diaphragm and external intercostal muscles to contract, but also activate neurons of the VRG involved in forceful inhalation to send impulses to the accessory muscles of inhalation—the sternocleidomastoid, scalenes, and pectoralis minor. Contraction of these muscles results in forceful inhalation. During forceful exhalation, the DRG is inactive along with the VRG neurons that participate in forceful inhalation, but neurons of the VRG involved in forceful exhalation send nerve impulses to the accessory muscles of exhalation—the internal intercostals, external oblique, internal oblique, transversus abdominis, and rectus abdominis. Contraction of these muscles results in forceful exhalation.
+
+Pontine respiratory group
+
+The pontine respiratory group (PRG), formerly called the pneumotaxic area, is a collection of neurons in the pons. The neurons in the PRG are active during inhalation and exhalation. The PRG transmits nerve impulses to the DRG in the medulla. The PRG may play a role in both inhalation and exhalation by modifying the basic rhythm of breathing generated by the VRG, such as when exercising, speaking, or sleeping.
+
+CHECKPOINT 27. How does the medullary respiratory centre regulate breathing? 28. How is the pontine respiratory group involved in regulation of breathing?
+
+Cortical influences on breathing
+
+Because the cerebral cortex has connections with the respiratory centre, we can voluntarily alter our pattern of breathing. We can even refrain from breathing for a short time. This voluntary control is protective, enabling us to prevent water or irritating gases from entering the lungs. However, the ability to hold breath is limited by the buildup of carbon dioxide and hydrogen ions in the body. When CO2 and H+ concentrations rise to a certain level, neurons in the medullary respiratory centre are strongly stimulated, and nerve impulses travel along the phrenic and intercostal nerves to the inspiratory muscles, causing breathing to resume whether we want it to or not. It is not possible for small children to kill themselves simply by holding their breath, even though many have tried. If breath-holding leads to fainting, breathing resumes when consciousness is lost. Nerve impulses from the hypothalamus and limbic system also stimulate the respiratory centre, allowing emotional states to alter breathing as, for example, in laughing and crying.
+
+Chemoreceptor regulation of breathing
+
+Certain chemical stimuli modulate how rapidly and how deeply we breathe. The respiratory system functions to maintain proper levels of CO2 and O2 and is highly responsive to changes in these gases in body fluids. Chemoreceptors, sensory neurons that respond to chemicals, monitor these levels and provide input to the respiratory centre. Central chemoreceptors are located in or near the medulla oblongata and respond to changes in hydrogen ion concentration in cerebrospinal fluid. Peripheral chemoreceptors are located in the aortic bodies—clusters of chemoreceptors in the wall of the aorta—and in the carotid bodies, which are oval nodules in the walls of the left and right common carotid arteries where they divide into the internal and external carotid arteries. The chemoreceptors of the aortic bodies are located close to the aorta.
+
+Peripheral chemoreceptors include the carotid bodies, located near the carotid sinus, and the aortic bodies near the arch of the aorta. As noted in previous chapters, baroreceptors monitor blood pressure, while these chemoreceptors monitor the chemical composition of the blood. Chemoreceptors are sensory receptors that respond to changes in the levels of certain chemicals in the blood. The carotid bodies send their afferent signals through the glossopharyngeal (IX) nerves, and the aortic bodies send signals through the vagus (X) nerves. In addition, olfactory receptors for smell and gustatory receptor cells for taste are likewise chemoreceptors that respond to external stimuli.
+
+Question: Which chemicals stimulate peripheral chemoreceptors?
+
+When carbon dioxide (CO2) is lipid-soluble, it diffuses into cells where, in the presence of carbonic anhydrase, it combines with water to form carbonic acid (H2CO3). Carbonic acid quickly dissociates into hydrogen ions (H+) and bicarbonate (HCO3−). Therefore, an increase in CO2 in the blood leads to an increase in H+ inside cells, while a decrease in CO2 leads to a decrease in H+. Normally, arterial CO2 partial pressure (PCO2) is about 40 mmHg. If even a slight rise occurs—a condition called hypercapnia or hypercarbia—the central chemoreceptors are stimulated and respond vigorously to the resulting rise in H+ concentration. The peripheral chemoreceptors are also stimulated by the high PCO2 and the rise in H+.
+
+In addition, the peripheral chemoreceptors respond to a deficiency of O2. When the PO2 in arterial blood falls from its normal level of about 100 mmHg but remains above about 50 mmHg, the peripheral chemoreceptors are stimulated. A severe deficiency of O2 depresses the activity of the central chemoreceptors and the dorsal respiratory group (DRG), which then do not respond well to inputs and send fewer impulses to the muscles of inhalation. As breathing slows or stops, PO2 falls further, establishing a positive feedback cycle that can have fatal consequences.
+
+The chemoreceptors participate in a negative feedback system that regulates the levels of CO2, O2, and H+ in the blood. When CO2 rises, pH falls (increased H+), or PO2 falls, input from the central and peripheral chemoreceptors causes the DRG to become highly active, increasing the rate and depth of breathing. Hyperventilation, characterized by rapid and deep breathing, enables more O2 to be inhaled and more CO2 to be exhaled, lowering PCO2 and H+ toward normal levels.
+
+If arterial PO2 falls below about 40 mmHg—a state called hypocapnia or hypocarbia—the central and peripheral chemoreceptors are not stimulated, and no stimulatory impulses are sent to the DRG. As a result, DRG neurons set their own moderate pace until CO2 accumulates again and PCO2 rises to about 40 mmHg. DRG neurons are more strongly stimulated when PCO2 rises above normal than when PO2 falls below normal.
+
+As a consequence, people who hyperventilate voluntarily and cause hypocapnia can hold their breath for an unusually long period. Swimmers were once encouraged to hyperventilate before diving to compete. However, this practice is risky because the oxygen level may fall dangerously low and cause fainting before CO2 rises high enough to stimulate inhalation.
+
+If you faint on land you may suffer bumps and bruises, but fainting in the water can lead to drowning.
+
+Proprioceptor stimulation of breathing
+As soon as you begin exercising, your rate and depth of breathing increase, even before changes in PCO2 or H+ levels occur. The main stimulus for these rapid changes in respiratory effort is input from proprioceptors, which monitor the movement of joints and muscles. Nerve impulses from the proprioceptors stimulate the dorsal respiratory group (DRG) of the medulla. At the same time, axon collaterals of upper motor neurons that originate in the primary motor cortex (precentral gyrus) also feed excitatory impulses into the DRG.
+
+The inflation reflex
+Similar to those in the blood vessels, stretch-sensitive receptors called baroreceptors or stretch receptors are located in the walls of the bronchi and bronchioles. When these receptors become stretched during overinflation of the lungs, nerve impulses are sent along the vagus (X) nerves to the DRG in the medullary respiratory centre. In response, the DRG is inhibited and the diaphragm and external intercostals relax. As a result, further inhalation is stopped and exhalation begins. As air leaves the lungs during exhalation, the lungs deflate and the stretch receptors are no longer stimulated. Thus, the DRG is no longer inhibited, and a new inhalation begins. This reflex is referred to as the inflation reflex, also known as the Hering-Breuer reflex.
+
+In infants, the reflex appears to function in normal breathing. In adults, however, the reflex is not activated until tidal volume (normally about 500 mL) reaches more than 1,500 mL. Therefore, the reflex in adults is a protective mechanism that prevents excessive inflation of the lungs, for example during severe exercise, rather than a key component in the normal control of breathing.
+
+Other influences on breathing
+Other factors that contribute to regulation of breathing include the following. Stimulation of the limbic system: anticipation of activity or emotional anxiety may stimulate the limbic system, which then sends excitatory input to the DRG, increasing the rate and depth of breathing. Temperature: an increase in body temperature, as occurs during fever or vigorous muscular exercise, increases the rate of breathing. A decrease in body temperature decreases breathing rate. A sudden cold stimulus (such as plunging into cold water) causes temporary apnea, an absence of breathing. Pain: a sudden, severe pain brings about brief apnea, but prolonged somatic pain increases breathing rate. Visceral pain may slow the rate and alter the depth of breathing. Stimulation involving the anal sphincter muscle increases the breathing rate and is sometimes used to stimulate respiration in a newborn or in a person who has stopped breathing. Irritation of the airways: physical or chemical irritation of the pharynx or larynx brings about an immediate cessation of breathing followed by coughing or sneezing. Blood pressure: the carotid and aortic baroreceptors that detect changes in blood pressure have a small effect on breathing. A sudden rise in blood pressure decreases the rate of breathing, and a drop in blood pressure increases the breathing rate.
+
+Regulation of breathing in response to changes in blood PCO2 and pH via negative feedback control
+An increase in arterial blood PCO2 stimulates the DRG, helping to restore homeostasis by increasing ventilation and bringing arterial PCO2, pH, and PO2 back toward normal. Nerve impulses to the muscles of inhalation and exhalation cause them to contract more forcefully and more frequently, resulting in hyperventilation.
+
+Concept Check
+Question: What is the normal arterial blood PCO2?
+
+CHECKPOINT 29. How do the cerebral cortex, levels of CO2 and O2, proprioceptors, the inflation reflex, temperature changes, pain, and irritation of the airways modify breathing?
+
+23.7 Exercise and the respiratory system
+
+LEARNING OBJECTIVE 23.7 Describe the effects of exercise on the respiratory system.
+
+The respiratory and cardiovascular systems adjust in response to both the intensity and the duration of exercise. The effects of exercise on the heart are discussed in Chapter 20; here the focus is on how exercise affects the respiratory system. The heart pumps the same amount of blood to the lungs as to the rest of the body, so when cardiac output rises, pulmonary perfusion increases as well. During maximal exercise, the O2 diffusing capacity can increase threefold because more pulmonary capillaries become maximally perfused, providing a greater surface area for O2 diffusion into the blood.
+
+As muscles contract during exercise, they consume large amounts of O2 and produce large amounts of CO2. In vigorous exercise, O2 consumption and breathing both rise dramatically. At the onset of exercise, there is an abrupt increase in breathing that is then followed by a more gradual rise. With moderate exercise, the increase is primarily due to a rise in the depth of breathing rather than an increase in breathing rate. When exercise becomes more strenuous, the frequency of breathing also increases.
+
+The sudden rise in breathing at the start of exercise is driven by neural changes that send excitatory impulses to the dorsal respiratory group of the medullary respiratory center in the brainstem. These changes come from three sources: anticipation of the activity, which stimulates the limbic system; sensory impulses from proprioceptors in muscles, tendons, and joints; and motor impulses from the primary motor cortex (the precentral gyrus).
+
+The more gradual increase in breathing during moderate exercise results from chemical and physical changes in the bloodstream. These include a slight decrease in PO2 due to increased O2 consumption, a slight increase in PCO2 due to increased CO2 production by contracting muscles, and an increase in temperature from the heat generated as more O2 is utilized. During strenuous exercise, bicarbonate buffers H+ released by lactic acid, a reaction that liberates CO2 and further increases PCO2.
+
+At the end of an exercise session, there is an abrupt decrease in…
+
+An increase in breathing is followed by a two-phase decline back to the resting level. The initial decrease is due mainly to changes in neural factors that occur when movement stops or slows; the more gradual phase reflects the slower return of blood chemistry levels and temperature to baseline.
+
+CLINICAL CONNECTION
+Effects of smoking on the respiratory system. Smoking damages the movement and function of cilia in the lining of the respiratory tract, destroying cilia and making it harder to clear mucus and foreign debris. As a result, excess mucus and debris are not easily removed, which further complicates breathing. The irritants can also convert the normal respiratory epithelium into stratified squamous epithelium, which lacks cilia and goblet cells. Over time, smoking leads to destruction of elastic fibers in the lungs and is a prime cause of emphysema. These changes cause collapse of small bronchioles and trapping of air in alveoli at the end of exhalation, reducing the efficiency of gas exchange. Smoking may cause a person to become easily winded during even moderate exercise because several factors decrease respiratory efficiency in smokers: nicotine constricts terminal bronchioles, reducing airflow into and out of the lungs; carbon monoxide in smoke binds to hemoglobin, lowering its oxygen-carrying capability; irritants increase mucus secretion and swelling of the mucosal lining, which impede airflow; irritants also hinder mucociliary clearance.
+
+CHECKPOINT 30. How does exercise affect the DRG?
+
+23.8 Development of the respiratory system
+LEARNING OBJECTIVE 23.8 Describe the development of the respiratory system.
+
+The development of the mouth and pharynx is discussed in chapter 24. Here we consider the development of the other structures of the respiratory system that you learned about in this chapter. At about four weeks of development, the respiratory system begins as an outgrowth of the foregut just inferior to the pharynx. This outgrowth is called the respiratory diverticulum. The endoderm lining the respiratory diverticulum gives rise to the epithelium and glands of the trachea, bronchi, and alveoli. Surrounding mesoderm forms the connective tissue, cartilage, and smooth muscle of these structures. The epithelial lining of the larynx develops from the endoderm of the respiratory diverticulum; the cartilages and muscles originate from the fourth and sixth pharyngeal arches, swellings on the embryo’s surface, and these contributions shape the developing airway structures.
+
+As the respiratory diverticulum elongates, its distal end enlarges to form a globular tracheal bud, which gives rise to the trachea. The tracheal bud soon divides into bronchial buds, which branch repeatedly and develop with the bronchi. By about 24 weeks, the lungs have formed 17 orders of branches, and respiratory bronchioles have developed. Between weeks 6 and 16, all major elements of the lungs have formed except those involved in gaseous exchange—namely, the respiratory bronchioles, alveolar ducts, and alveoli. Because breathing is not possible at this stage, fetuses born during this period cannot survive.
+
+Between weeks 16 and 26, lung tissue becomes highly vascular, and respiratory bronchioles, alveolar ducts, and some primitive alveoli develop. Although a fetus born near the end of this period may survive with intensive care, death frequently occurs due to the immaturity of the respiratory and other systems.
+
+The respiratory system begins as the laryngotracheal diverticulum, which gives rise to the trachea and bronchial tree. The trachea and bronchial buds form and branch to produce the major bronchi, eventually developing into secondary and tertiary bronchi as the lungs grow. This rudimentary branching occurs through the early weeks of gestation, with the process continuing as the lung buds expand and the lung lobes form.
+
+From the fourth to the eighth weeks of gestation, development proceeds with the formation of the lung lobes and further bronchial divisions. As the lungs develop, the pleural sacs also form—the visceral pleura and the parietal pleura arise from the mesoderm, and the pleural cavity comes into being between these two layers.
+
+During fetal development, breathing movements cause the aspiration of fluid into the developing lungs. This fluid is a mixture of amniotic fluid, mucus from bronchial glands, and surfactant. At birth, the lungs are about half-filled with fluid. When breathing begins at birth, most of this fluid is rapidly reabsorbed by blood and lymphatic vessels, and a small amount is expelled through the nose and mouth during delivery.
+
+From 26 weeks to birth, many more primitive alveoli develop. These alveoli consist of type I alveolar cells, the main sites of gaseous exchange, and type II cells, which produce surfactant. Blood capillaries establish close contact with the primitive alveoli, enabling gas exchange. Surfactant lowers the surface tension of the alveolar fluid and reduces the tendency of alveoli to collapse on exhalation. Although surfactant production begins by about 20 weeks, it is present in only small quantities. Amounts sufficient to permit survival of a premature infant are not produced until about 26 to 28 weeks’ gestation. Infants born before 26 to 28 weeks face a high risk of respiratory distress syndrome, in which the alveoli collapse during exhalation and must be reinflated during inhalation (see the clinical connection to respiratory distress syndrome in section 23.2). By about 30 weeks, mature alveoli develop. However, it is estimated that only about one-sixth of the full complement of alveoli is present before birth; the remainder develop after birth during the first eight years.
+
+As the lungs develop, they acquire their pleural coverings. The visceral pleura and the parietal pleura develop from mesoderm, and the space between them forms the pleural cavity. The lungs also begin to acquire more defined bronchial structures and alveolar formations, readying themselves for life after birth.
+
+Checkpoint
+
+CHECKPOINT 31. What structures develop from the laryngotracheal bud?
+
+23.9 Ageing and the respiratory system
+
+LEARNING OBJECTIVE 23.9 Describe the effects of ageing on the respiratory system.
+
+With advancing age, the airways and tissues of the respiratory tract, including the alveoli, become less elastic and more rigid; the chest wall becomes more rigid as well. The result is a decrease in lung capacity. In fact, vital capacity—the maximum amount of air that can be exhaled after maximal inhalation—decreases with age.

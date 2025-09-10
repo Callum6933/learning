@@ -1,0 +1,15 @@
+CHECKPOINT 29. How do the cerebral cortex, levels of CO2 and O2, proprioceptors, the inflation reflex, temperature changes, pain, and irritation of the airways modify breathing?
+
+23.7 Exercise and the respiratory system
+
+LEARNING OBJECTIVE 23.7 Describe the effects of exercise on the respiratory system.
+
+The respiratory and cardiovascular systems adjust in response to both the intensity and the duration of exercise. The effects of exercise on the heart are discussed in Chapter 20; here the focus is on how exercise affects the respiratory system. The heart pumps the same amount of blood to the lungs as to the rest of the body, so when cardiac output rises, pulmonary perfusion increases as well. During maximal exercise, the O2 diffusing capacity can increase threefold because more pulmonary capillaries become maximally perfused, providing a greater surface area for O2 diffusion into the blood.
+
+As muscles contract during exercise, they consume large amounts of O2 and produce large amounts of CO2. In vigorous exercise, O2 consumption and breathing both rise dramatically. At the onset of exercise, there is an abrupt increase in breathing that is then followed by a more gradual rise. With moderate exercise, the increase is primarily due to a rise in the depth of breathing rather than an increase in breathing rate. When exercise becomes more strenuous, the frequency of breathing also increases.
+
+The sudden rise in breathing at the start of exercise is driven by neural changes that send excitatory impulses to the dorsal respiratory group of the medullary respiratory center in the brainstem. These changes come from three sources: anticipation of the activity, which stimulates the limbic system; sensory impulses from proprioceptors in muscles, tendons, and joints; and motor impulses from the primary motor cortex (the precentral gyrus).
+
+The more gradual increase in breathing during moderate exercise results from chemical and physical changes in the bloodstream. These include a slight decrease in PO2 due to increased O2 consumption, a slight increase in PCO2 due to increased CO2 production by contracting muscles, and an increase in temperature from the heat generated as more O2 is utilized. During strenuous exercise, bicarbonate buffers H+ released by lactic acid, a reaction that liberates CO2 and further increases PCO2.
+
+At the end of an exercise session, there is an abrupt decrease in…

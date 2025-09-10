@@ -1,0 +1,21 @@
+Transport of oxygen (O2) and carbon dioxide (CO2) in the blood
+
+Oxygen binding to haemoglobin depends on the partial pressure of oxygen (PO2). The higher the PO2, the more O2 binds to haemoglobin. When haemoglobin is completely converted to oxyhaemoglobin (HbO2), it is fully saturated; when it contains a mixture of HbO2 and deoxygenated haemoglobin, it is only partially saturated. The percentage saturation expresses the average saturation of haemoglobin with oxygen. For example, if each haemoglobin molecule has bound two O2 molecules, the haemoglobin is 50% saturated because a molecule can carry a maximum of four O2 molecules.
+
+Transport of CO2 and O2 in the blood follows distinct patterns. Most CO2 is transported in plasma as bicarbonate ions (HCO3–). A portion is dissolved in plasma, and another portion is carried in the blood bound to haemoglobin as carbaminohaemoglobin. By contrast, most O2 is carried within red blood cells bound to haemoglobin as oxyhaemoglobin, with a small amount dissolved in plasma.
+
+Oxygen transport
+About 1.5% of the total oxygen is dissolved in plasma, and the remaining 98.5% is carried as oxyhaemoglobin within red blood cells.
+
+Carbon dioxide transport
+Approximately 7% of CO2 is dissolved in plasma, about 23% is carried as carbaminohaemoglobin bound to haemoglobin, and roughly 70% is transported as bicarbonate (HCO3–) in plasma.
+
+External respiration and internal respiration
+In the lungs, external respiration occurs as blood passes through the pulmonary capillaries. Gas exchange with the alveolar air allows oxygen to diffuse into the blood, forming oxyhaemoglobin, and carbon dioxide to diffuse from the blood into the alveolar air to be exhaled. In the systemic circulation, internal respiration takes place in the systemic capillaries: oxygen is released from haemoglobin to tissue cells, and carbon dioxide produced by cellular metabolism diffuses from tissues into the blood.
+
+Question
+What is the most important factor that determines how much O2 binds to haemoglobin?
+
+The relationship between the percent saturation of haemoglobin and PO2 is described by the oxygen-haemoglobin dissociation curve. When PO2 is high, haemoglobin binds large amounts of O2 and is almost 100% saturated. When PO2 is low, haemoglobin is only partially saturated. In pulmonary capillaries, where PO2 is high, a large amount of O2 binds to haemoglobin. In tissue capillaries, where PO2 is lower, haemoglobin does not hold as much O2, and the dissolved O2 diffuses into tissue cells.
+
+Note that haemoglobin remains about 75% saturated with O2 at a PO2 of 40 mmHg, the average PO2 of tissue cells in a person at rest. This underpins the statement that only about 25% of the available O2 unloads from haemoglobin and is used by tissue cells under resting conditions. The curve also explains why people can perform well at high altitudes or with certain cardiac or respiratory conditions even when PO2 falls to around 60 mmHg. At a considerably lower PO2, for example 40 mmHg, haemoglobin is still around 75% saturated, while at 20 mmHg saturation falls to about 35%. Between 40 and 20 mmHg, large amounts of O2 are released from haemoglobin with only small decreases in PO2. In active tissues such as contracting muscles, PO2 can drop well below resting values, leading to greater O2 unloading.

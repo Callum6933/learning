@@ -1,0 +1,17 @@
+Learning Objective 23.2: Describe the events that cause inhalation and exhalation.
+
+Respiration, the process of gas exchange in the body, occurs in three basic steps. First is pulmonary ventilation, or breathing, which is the inflow and outflow of air between the atmosphere and the alveoli of the lungs. Second is external (pulmonary) respiration, the exchange of gases between the alveoli and the blood in the pulmonary capillaries across the respiratory membrane; in this step, the blood gains oxygen (O2) and loses carbon dioxide (CO2). Third is internal (tissue) respiration, the exchange of gases between the blood in systemic capillaries and tissue cells; here, the blood loses O2 and gains CO2. Within cells, the metabolic reactions that consume O2 and release CO2 during ATP production are termed cellular respiration.
+
+Pulmonary ventilation depends on alternating pressure differences created by the contraction and relaxation of respiratory muscles. The rate of airflow and the amount of effort required for breathing are influenced by factors such as alveolar surface tension, the compliance of the lungs, and airway resistance.
+
+Pressure changes during pulmonary ventilation
+
+Air moves into the lungs when the air pressure inside the lungs is less than the air pressure in the atmosphere, and air moves out when the intrapulmonary pressure is greater than atmospheric pressure.
+
+Inhalation
+
+Breathing in is called inhalation (inspiration). Just before each inhalation, the pressure inside the lungs is equal to the atmospheric pressure, which at sea level is about 760 mmHg, or 1 atmosphere (atm). For air to flow into the lungs, the pressure inside the alveoli must become lower than atmospheric pressure. This condition is achieved by increasing the size of the lungs. The pressure of a gas in a closed container is inversely proportional to the container’s volume: if the container’s size increases, the gas pressure decreases, and if the size decreases, the pressure increases. This inverse relationship between volume and pressure, Boyle’s law, can be illustrated conceptually: place a gas in a cylinder with a movable piston and a pressure gauge. If the piston is pushed down, the gas is compressed into a smaller volume, and the same number of gas molecules strike a smaller wall area, causing the gauge to show higher pressure. Conversely, if the piston is raised to increase the volume, the pressure decreases. Thus, the pressure of a gas varies inversely with volume.
+
+Differences in pressure caused by changes in lung volume drive air into the lungs during inhalation and push air out during exhalation. For inhalation to occur, the lungs must expand, increasing lung volume and reducing intrapulmonary pressure to below atmospheric pressure.
+
+The first step in expanding the lungs during normal quiet inhalation involves contraction of the main muscle of inhalation, the diaphragm, with assistance from the external intercostal muscles. The diaphragm is the dome-shaped skeletal muscle that forms the floor of the thoracic cavity. It is innervated by the phrenic nerves, which arise from spinal cord segments C3–C5. When the diaphragm contracts, it flattens, lowering its dome and increasing the vertical diameter of the thoracic cavity. During normal quiet inhalation, the diaphragm descends.

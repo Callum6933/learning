@@ -1,0 +1,20 @@
+2,3-bisphosphoglycerate (BPG) is formed in red blood cells during glycolysis, the breakdown of glucose that provides ATP. BPG binds to hemoglobin by attaching to the terminal amino groups of the two beta globin chains, causing hemoglobin to release oxygen more readily from the heme groups. The higher the level of BPG, the more O2 is unloaded from hemoglobin. Several hormones increase the formation of BPG, including thyroxine, human growth hormone, epinephrine, norepinephrine, and testosterone. BPG levels are also higher in people living at higher altitudes.
+
+Oxygen-hemoglobin dissociation curves
+These curves illustrate the relationship of pH and the partial pressure of carbon dioxide (Pco2) with hemoglobin saturation at normal body temperature. When pH increases, hemoglobin binds O2 more tightly, so less O2 is released to tissues. When pH decreases, the affinity of hemoglobin for O2 declines, and more O2 is available to tissues. The broken lines in the original illustration emphasize these relationships. High blood pH tends to make O2 bind more tightly, while low blood pH promotes O2 unloading.
+
+Question: In comparison with the value when you are sitting, is the affinity of your hemoglobin for O2 higher or lower when you are exercising? How does this benefit you?
+
+Oxygen-hemoglobin dissociation curves showing the effect of temperature changes
+As temperature increases, the affinity of hemoglobin for O2 decreases. At low temperature (around 20°C, 68°F), the affinity is higher; at normal body temperature (37°C, 98.6°F) it is lower; and at higher temperatures (for example, around 43°C, 110°F) it decreases further. This means that at higher temperatures, more O2 is available to tissues. Question: Is O2 more available or less available to tissue cells when you have a fever? Why?
+
+Oxygen affinity of fetal and adult hemoglobin
+Fetal hemoglobin (Hb-F) differs from adult hemoglobin (Hb-A) in both structure and oxygen affinity. Hb-F has a higher affinity for O2 because it binds BPG less strongly. Consequently, when PO2 is low, Hb-F can carry up to about 30% more O2 than maternal Hb-A. As maternal blood enters the placenta, oxygen is readily transferred to fetal blood, which is crucial because the oxygen saturation in maternal blood within the placenta is relatively low. The higher affinity of Hb-F for O2 supports oxygen delivery to the developing fetus.
+
+Oxygen-hemoglobin curves comparing fetal and maternal hemoglobin
+Foetal hemoglobin has a higher affinity for O2 than adult hemoglobin, a difference reflected in the comparative curves for fetal and maternal hemoglobin.
+
+Question: The PO2 of placental blood is about 40 mmHg. What are the O2 saturations of maternal and fetal hemoglobin at this PO2?
+
+Clinical Connection: Carbon monoxide poisoning
+Carbon monoxide (CO) is a colorless and odorless gas found in exhaust fumes from automobiles, gas furnaces and space heaters, and in tobacco smoke. It is a byproduct of the combustion of carbon-containing materials such as coal, gas, and wood. CO binds to the heme group of hemoglobin in the same site as O2, but binding of CO to hemoglobin is over 200 times stronger than binding of O2. As a result, CO markedly reduces the blood’s capacity to carry oxygen and impairs oxygen delivery to tissues.

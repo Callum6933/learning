@@ -1,0 +1,31 @@
+23.6 Control of breathing
+Learning objective: Explain how the nervous system controls breathing.
+
+As blood passes through the pulmonary capillaries, carbon dioxide dissolved in plasma and that which dissociates from the globin portion of hemoglobin diffuses into alveolar air and is exhaled. At the same time, inhaled oxygen diffuses from the alveolar air into red blood cells and binds to hemoglobin to form oxyhemoglobin (HbO2). Carbon dioxide is also released from bicarbonate (HCO3−) formed inside red blood cells when hydrogen ions (H+) combine with bicarbonate. The bicarbonate formed from this reaction then splits into carbon dioxide and water; the carbon dioxide diffuses from the blood into the alveolar air to be exhaled. As the concentration of bicarbonate declines inside red blood cells in pulmonary capillaries, bicarbonate diffuses in from the blood plasma in exchange for chloride ions (the reverse chloride shift). In sum, oxygenated blood leaving the lungs has increased oxygen content and decreased amounts of carbon dioxide and hydrogen ions.
+
+In systemic capillaries, as cells use oxygen and produce carbon dioxide, the chemical reactions reverse.
+
+Summary of chemical reactions that occur during gas exchange
+
+(a) External respiration in the pulmonary capillaries:
+As carbon dioxide is exhaled, hemoglobin inside red blood cells unloads CO2 and picks up O2 from the alveolar air. Hydrogen ions released during carbon dioxide transport bind with bicarbonate, forming carbonic acid, which dissociates into water and CO2. The CO2 then diffuses from blood into the alveolar air to be exhaled. To maintain electrical balance, a chloride ion exits the red blood cell for each bicarbonate ion that enters (the chloride shift).
+
+(b) Internal respiration in the systemic capillaries:
+Carbon dioxide diffuses from tissue cells into red blood cells, where some of it binds to hemoglobin to form carbaminohemoglobin. This reaction promotes the release of oxygen from oxyhemoglobin (the Bohr effect). Other molecules of CO2 combine with water to form bicarbonate and hydrogen ions. As hemoglobin buffers the hydrogen ions, it releases oxygen. To maintain electrical balance, a chloride ion enters the red blood cell for each bicarbonate ion that leaves (chloride shift).
+
+Question:
+Would you expect the concentration of bicarbonate to be higher in blood plasma taken from a systemic artery or from a systemic vein?
+
+CHECKPOINT 24
+In a resting person, how many O2 molecules are attached to each hemoglobin molecule, on average, in blood in the pulmonary arteries? In blood in the pulmonary veins?
+
+CHECKPOINT 25
+What is the relationship between hemoglobin and O2? How do temperature, hydrogen ion concentration (pH), partial pressure of carbon dioxide (PCO2), and 2,3-bisphosphoglycerate (2,3-BPG) influence the affinity for O2?
+
+CHECKPOINT 26
+Why can hemoglobin unload more oxygen as blood flows through capillaries of metabolically active tissues, such as skeletal muscle during exercise, than is unloaded at rest?
+
+23.6 Control of breathing (continued)
+Learning objective: Explain how the nervous system controls breathing.
+
+At rest, about 200 mL of O2 is used each minute by body cells. During strenuous exercise, O2 use typically increases 15- to 20-fold in normal healthy adults, and as much as 30-fold in elite endurance-trained athletes. Several mechanisms help match breathing effort to metabolic demand. The respiratory center is responsible for regulating the rate and depth of breathing. The size of the thorax is altered by the action of the breathing muscles, which contract in response to nerve impulses transmitted from centers in the brain and relax in the absence of nerve impulses. These nerve impulses originate from clusters of neurons located bilaterally in the brain stem, collectively known as the respiratory center. This group can be divided into two principal areas on the basis of their anatomical locations and functions.

@@ -1,0 +1,19 @@
+External respiration
+
+External respiration, or pulmonary gas exchange, is the diffusion of oxygen from the air in the alveoli into the blood in the pulmonary capillaries, and the diffusion of carbon dioxide in the opposite direction. In the lungs, deoxygenated blood returning from the right side of the heart becomes oxygenated as it picks up oxygen and releases carbon dioxide to the alveolar air, then returns to the left side of the heart. As blood flows through the pulmonary capillaries, it picks up oxygen from the alveolar air and unloads carbon dioxide into the alveolar air. Although this process is commonly called an exchange of gases, each gas diffuses independently from the area where its partial pressure is higher to the area where its partial pressure is lower.
+
+In resting conditions, the partial pressure of oxygen in alveolar air is about 105 mmHg, while the partial pressure of oxygen in the blood of the pulmonary capillaries is about 40 mmHg. If you have been exercising, the capillary PO2 will be even lower because contracting muscles use more oxygen. Diffusion continues until the PO2 of the pulmonary capillary blood rises to match the PO2 of the alveolar air, around 105 mmHg. Because blood leaving the pulmonary capillaries near the alveolar spaces mixes with blood that has flowed through conducting airways where no gas exchange occurs, the PO2 of blood in the pulmonary veins is slightly less than in the capillaries, about 100 mmHg.
+
+While oxygen diffuses from alveolar air into deoxygenated blood, carbon dioxide diffuses in the opposite direction. The venous blood arriving at the alveoli has a PCO2 of about 45 mmHg, while the alveolar air has a PCO2 of about 40 mmHg. Because of this difference, carbon dioxide diffuses from the deoxygenated blood into the alveoli until the blood’s PCO2 decreases to about 40 mmHg. Exhalation maintains the alveolar PCO2 at about 40 mmHg. Consequently, oxygenated blood returning to the left side of the heart in the pulmonary veins has a PO2 of about 100 mmHg.
+
+7 Changes in partial pressures of oxygen and carbon dioxide (in mmHg) during external and internal respiration. Gases diffuse from areas of higher partial pressure to areas of lower partial pressure. Atmospheric air: O2 partial pressure about 159 mmHg; CO2 about 0.3 mmHg. In the alveoli: O2 about 105 mmHg; CO2 about 40 mmHg. In the blood of the pulmonary capillaries: O2 about 40 mmHg; CO2 about 45 mmHg. In the pulmonary veins and left atrium: O2 about 100 mmHg; CO2 about 40 mmHg.
+
+Internal respiration
+
+Internal respiration is the gas exchange between systemic capillaries and tissue cells. Oxygen diffuses from the systemic arterial blood (PO2 about 100 mmHg) into tissue cells (PO2 about 40 mmHg), while carbon dioxide diffuses from tissue cells (PCO2 about 45 mmHg) into the systemic capillaries (PCO2 about 40 mmHg).
+
+Question
+
+What causes oxygen to enter pulmonary capillaries from alveoli and to enter tissue cells from systemic capillaries?
+
+The number of capillaries near the alveoli in the lungs is very large, and blood flows slowly enough through these capillaries that it can pick up as much oxygen as possible. During vigorous exercise, when cardiac output increases, blood moves more rapidly through both the systemic and pulmonary circulations. As a result, the transit time of blood through the pulmonary capillaries is shorter. Nevertheless, the PO2 of blood in the pulmonary veins normally reaches about 100 mmHg. In diseases that reduce the rate of gas diffusion, blood may not come into full equilibrium with alveolar air, especially during exercise.

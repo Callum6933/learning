@@ -1,0 +1,25 @@
+Respiratory membrane
+
+The alveolus is wrapped by an elastic basement membrane. On the outer surface of each alveolus, the arterioles and venules of the surrounding lobule branch into a network of capillaries that form a single layer of endothelial cells resting on a basement membrane. Gas exchange between the air spaces of the lungs and the blood occurs by diffusion across the walls of the alveoli and the capillaries, which together constitute the respiratory membrane.
+
+Extending from the alveolar air space to the blood plasma, the respiratory membrane consists of four layers:
+1) a layer made up of type I and type II alveolar cells and the associated alveolar macrophages that constitutes the alveolar wall;
+2) an epithelial basement membrane underlying the alveolar wall;
+3) a capillary basement membrane that is often fused to the epithelial basement membrane;
+4) the capillary endothelium.
+
+Although the respiratory membrane comprises several layers, it is extremely thin—about 0.5 micrometers thick, roughly one-sixteenth the diameter of a red blood cell—so gases can diffuse rapidly. The lungs contain roughly 300 million alveoli, providing an enormous surface area of about 70 square meters (roughly 750 square feet)—approximately the size of a racquetball court—for gas exchange.
+
+The alveolar space contains fluid with surfactant, which helps keep the surface tension of the alveoli reasonable and aids in gas exchange.
+
+Question: How thick is the respiratory membrane?
+
+Blood supply to the lungs
+
+The lungs receive blood through two distinct arterial systems: the pulmonary arteries and the bronchial arteries. Deoxygenated blood travels from the heart via the pulmonary trunk, which divides into the left and right pulmonary arteries, delivering blood to each lung. The pulmonary arteries are the only arteries in the body that carry deoxygenated blood.
+
+Oxygenated blood returns to the heart through four pulmonary veins, which drain into the left atrium.
+
+A unique feature of the pulmonary vasculature is its response to local hypoxia. In most tissues, low oxygen levels cause vessels to dilate and increase blood flow. In the lungs, hypoxia induces vasoconstriction, redirecting blood away from poorly ventilated regions toward well-ventilated areas to optimize gas exchange. This phenomenon is known as ventilation–perfusion coupling, ensuring that blood flow matches the amount of air reaching the alveoli.
+
+Bronchial arteries, branching from the aorta, supply oxygenated blood to the lungs, primarily perfusing the muscular walls of the bronchi and bronchioles. There are connections between branches of the bronchial arteries and branches of the pulmonary arteries; however, most blood returns to the heart via the pulmonary veins.

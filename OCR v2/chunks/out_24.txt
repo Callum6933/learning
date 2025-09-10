@@ -1,0 +1,28 @@
+The chest was restrained by a non-elastic strap, and carrying the load on the torso did not reduce maximal aerobic power. However, it did shorten the total time participants could sustain exercise. Interestingly, as the backpack arrangement restricted the ribcage, breathing frequency was favored over tidal volume to achieve the required ventilation. Ratings of dyspnea rose during load carriage, and this tendency was partly evident during chest strapping as well, indicating that carrying a load around the torso restricts rib movement during inhalation. For a soldier carrying very heavy loads as part of daily duties, the respiratory muscles—including the diaphragm, the external intercostals, and the accessory muscles of respiration—must work harder to achieve the necessary pulmonary ventilation. Further research is underway to identify potential respiratory training techniques to enhance the “athlete” soldier’s capacity to carry very heavy loads.
+
+CHECKPOINT 16. What is a spirometer? 
+17. What is the difference between a lung volume and a lung capacity? 
+18. How is minute ventilation calculated? 
+19. Define alveolar ventilation rate and FEV1.
+
+LEARNING OBJECTIVE 23.4
+Exchange of oxygen and carbon dioxide
+
+LEARNING OBJECTIVE 23.4 Understand the exchange of oxygen and carbon dioxide, including the involvement of Dalton’s law and Henry’s law.
+
+The exchange of oxygen and carbon dioxide between alveolar air and pulmonary blood occurs via passive diffusion, which is governed by the behavior of gases as described by two gas laws: Dalton’s law and Henry’s law. Dalton’s law is important for understanding how gases move down their pressure gradients by diffusion, and Henry’s law helps explain how the solubility of a gas relates to its diffusion.
+
+Gas laws: Dalton’s law and Henry’s law
+According to Dalton’s law, each gas in a mixture of gases exerts its own pressure as if no other gases were present. The pressure of a specific gas in a mixture is called its partial pressure (P gas); the subscript denotes the gas. The total pressure of the mixture is calculated by adding all of the partial pressures. Atmospheric air is a mixture of nitrogen (N2), oxygen (O2), argon (Ar), carbon dioxide (CO2), varying amounts of water vapor (H2O), and other gases present in small quantities. Atmospheric pressure is the sum of the pressures of all of these gases: Ptotal = PN2 + PO2 + PAr + PCO2 + Pother + PH2O.
+
+Atmospheric air is approximately 78.6% nitrogen, 20.9% oxygen, 0.093% argon, 0.04% carbon dioxide, and 0.06% other gases, with a variable amount of water vapor. The partial pressures of the gases in inspired air are roughly:
+- PN2 ≈ 597.4 mmHg
+- PO2 ≈ 158.8 mmHg
+- PAr ≈ 0.7 mmHg
+- PCO2 ≈ 2.3 mmHg
+- Pother ≈ 0.5 mmHg
+- PH2O varies with humidity and temperature but is present in inspired air
+
+Total = 760.0 mmHg
+
+These partial pressures determine the movement of O2 and CO2 between the atmosphere and the lungs, between the lungs and the blood, and between the blood and the body’s cells. Gases diffuse across a permeable membrane from the area of higher partial pressure to the area of lower partial pressure, and the greater the difference in partial pressure, the faster the rate of diffusion. Compared with inhaled air, alveolar air contains less O2 (about 13.6% versus 20.9%) and more CO2 (about 5.2% versus 0.04%) for two reasons. First, alveolar air is a mixture that includes residual air in the lungs and air from the dead space; second, gas exchange with the blood alters the composition as O2 is consumed and CO2 is released, while the air is also humidified.

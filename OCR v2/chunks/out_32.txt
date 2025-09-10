@@ -1,0 +1,15 @@
+Carbon dioxide transport
+
+Under normal resting conditions, each 100 milliliters of deoxygenated blood contains the equivalent of about 53 milliliters of gaseous CO2. CO2 is transported in the blood in three main forms.
+
+First, dissolved CO2. About 7% of the CO2 is dissolved in blood plasma. When this CO2 reaches the lungs, it diffuses into the alveolar air and is exhaled.
+
+Second, carbamino compounds. Approximately 23% of CO2 binds with amino groups of amino acids and proteins in the blood to form carbamino compounds. Because haemoglobin is the most abundant protein inside red blood cells, most of the CO2 transported this way is bound to haemoglobin, forming carbaminohaemoglobin (Hb-CO). The main CO2 binding sites are the terminal amino acids in the two alpha and two beta globin chains. Haemoglobin that has bound CO is referred to as carbaminohaemoglobin. The formation of carbaminohaemoglobin is influenced by oxygen tension: in tissue capillaries, the partial pressure of oxygen is relatively high, which promotes formation of carbaminohaemoglobin; in pulmonary capillaries, the partial pressure of oxygen is relatively low, and CO2 readily dissociates from the globin and enters the alveoli by diffusion.
+
+Third, bicarbonate ions. The greatest portion of CO2—about 70%—is transported in plasma as bicarbonate ions (HCO3−). As CO2 diffuses into systemic capillaries and enters red blood cells, it reacts with water in the presence of the enzyme carbonic anhydrase to form carbonic acid, which dissociates into hydrogen ions (H+) and bicarbonate ions. The bicarbonate ions accumulate inside the red blood cells, and some move out into the plasma, while chloride ions (Cl−) move from plasma into the red blood cells to maintain electrical balance. This exchange of negative ions is known as the chloride shift. The net effect is that CO2 is removed from tissue cells and transported in plasma as bicarbonate. When blood passes through pulmonary capillaries in the lungs, these reactions reverse and CO2 is exhaled.
+
+The amount of CO2 that can be transported in the blood is influenced by the percentage saturation of haemoglobin with oxygen. The lower the level of oxyhaemoglobin, the higher the CO2-carrying capacity of the blood, a relationship known as the Haldane effect. Two characteristics of deoxyhaemoglobin give rise to this effect: first, deoxyhaemoglobin binds to and thus transports more CO2 than oxyhaemoglobin; second, deoxyhaemoglobin buffers more hydrogen ions than oxyhaemoglobin, thereby removing H+ from solution and promoting the conversion of CO2 to HCO3− via the carbonic anhydrase–catalyzed reaction.
+
+Summary of gas exchange and transport in lungs and tissues
+
+Deoxygenated blood returning to the pulmonary capillaries contains CO2 dissolved in plasma, CO2 bound to haemoglobin as carbaminohaemoglobin (Hb-CO), and CO2 incorporated into bicarbonate (HCO3−) within red blood cells. The red blood cells have also picked up H+, which is buffered by haemoglobin, and is therefore buffered by haemoglobin (Hb).

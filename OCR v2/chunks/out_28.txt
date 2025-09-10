@@ -1,0 +1,32 @@
+arranged in a single file, which minimizes the diffusion distance from an alveolar air space to the haemoglobin inside red blood cells. The buildup of interstitial fluid between the alveoli, as occurs in pulmonary edema, slows the rate of gas exchange because it increases diffusion distance.
+
+Molecular weight and solubility of the gases
+Oxygen (O2) has a lower molecular weight than carbon dioxide (CO2), so one might expect O2 to diffuse across the respiratory membrane about 1.2 times faster. However, the solubility of CO2 in the fluid portions of the respiratory membrane is about 24 times greater than that of O2. Taking both factors into account, net outward diffusion of CO2 from blood to the alveoli occurs about 20 times more rapidly than net inward diffusion of O2 from the alveoli to the blood. Consequently, when diffusion is slower than normal—in conditions such as emphysema or pulmonary edema—oxygen insufficiency (hypoxia) typically occurs before there is significant retention of CO2 (hypercapnia).
+
+CLINICAL CONNECTION
+Hypoxia
+Hypoxia (hyp-OX-ee-a; hypo- = under) is a deficiency of oxygen at the tissue level. Based on the cause, it can be classified into four types:
+1. Hypoxic hypoxia is caused by a low arterial PO2 as a result of high altitude, airway obstruction, or fluid in the lungs.
+2. Anemic hypoxia occurs when there is too little functioning haemoglobin in the blood, reducing oxygen transport.
+3. Ischemic hypoxia (is-KE-mik) happens when blood flow to a tissue is so reduced that too little O2 is delivered, even though PO2 and oxyhaemoglobin levels may be normal.
+4. Histotoxic hypoxia (his-tox-ik) occurs when the blood delivers adequate O2 to tissues, but the tissues are unable to use it properly due to the action of a toxic agent. One cause is cyanide poisoning, which blocks an enzyme required for the use of O2 during ATP synthesis.
+
+Causes of hypoxia can include hemorrhage, anemia, and failure of haemoglobin to carry its normal complement of oxygen, as in carbon monoxide poisoning.
+
+CHECKPOINT 20
+Distinguish between Dalton's law and Henry's law and give a practical application of each.
+21. How does the partial pressure of oxygen change as altitude changes?
+22. What are the diffusion paths of oxygen and carbon dioxide during external and internal respiration?
+23. What factors affect the rate of diffusion of oxygen and carbon dioxide?
+23.5 Transport of oxygen and carbon dioxide
+LEARNING OBJECTIVE 23.5
+Describe how the blood transports oxygen and carbon dioxide.
+
+As you have already learned, the blood transports gases between the lungs and body tissues. When O2 and CO2 enter the blood, certain chemical reactions occur that aid in gas transport and gas exchange.
+
+Oxygen transport
+Oxygen does not dissolve easily in water, so only about 1.5% of inhaled O2 is dissolved in blood plasma, which is mostly water. About 98.5% of blood O2 is bound to haemoglobin in red blood cells. Each 100 mL of oxygenated blood contains the equivalent of about 20 mL of O2. Using the percentages just given, the amount dissolved in the plasma is about 0.3 mL and the amount bound to haemoglobin is about 19.7 mL. The haem portion of haemoglobin contains four atoms of iron, each capable of binding to a molecule of O2. Oxygen and haemoglobin bind in an easily reversible reaction to form oxyhaemoglobin:
+Hb + O2 ⇌ HbO2
+Reduced haemoglobin participates in the process of releasing O2 where needed.
+
+The 98.5% of the O2 that is bound to haemoglobin is carried inside red blood cells, so only the dissolved O2 (about 1.5%) can diffuse out of tissue capillaries into tissue cells. Therefore, it is important to understand the factors that promote O2 binding to and dissociation from haemoglobin. The relationship between haemoglobin and the partial pressure of oxygen is the most important factor that determines how much O2 binds to and dissociates from haemoglobin.
