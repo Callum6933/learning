@@ -113,7 +113,7 @@ def main():
         else:
             break
     
-    outfile = Path(filename)
+    outfile = Path(f"output/{filename}")
     fig.savefig(outfile, dpi=200)
 
 

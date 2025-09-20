@@ -1,6 +1,12 @@
 import pandas as pd
+import os
 
-version = 1
+"""
+How to use:
+- Run 'python3 putt_measurements.py'
+- Run 'python3 putt_analysis.py data/measurements.csv'
+- Run 'python3 plot_01_mean_with_range.py data/metrics.csv'
+"""
 
 # Create dict for variables
 grips = {
@@ -15,11 +21,23 @@ for grip in grips:
     for i in range(10):
         while True:
             try:
-                value = int(input("Distance: ")) ; grips[grip].append(value)
+                value = int(input("Distance: "))
+                grips[grip].append(value)
                 break
             except ValueError:
                 continue
 
 # Save to csv
 df = pd.DataFrame(grips)
-df.to_csv("analyses/grip_measurements{version}.csv", index=False)
+
+i = 0
+
+while True:
+    filename = f"measurements{i}.csv"
+    if os.path.exists(filename):
+        i += 1
+    else:
+        break
+
+df.to_csv(f"data/{filename}.csv", index=False)
+print(f"File saved as: data/{filename}")

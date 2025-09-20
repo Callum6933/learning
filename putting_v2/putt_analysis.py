@@ -28,7 +28,7 @@ stats_df = pd.DataFrame({
 i = 0
 
 while True:
-    filename = f"analyses/metrics{i}.csv"
+    filename = f"data/metrics{i}.csv"
 
     if os.path.exists(filename):
         i += 1
@@ -36,3 +36,4 @@ while True:
         break
 
 stats_df.to_csv(filename)
+print(f"Data saved as: data/{filename}")

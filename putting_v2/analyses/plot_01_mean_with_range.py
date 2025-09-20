@@ -6,7 +6,7 @@ import sys
 import os
 
 if len(sys.argv) != 2:
-    sys.exit("Usage: python plot_01_mean_with_range.py input.csv")
+    sys.exit("Usage: python plot_01_mean_with_range.py data/input.csv")
 
 def main():
     df = pd.read_csv(sys.argv[1], index_col=0)
@@ -69,7 +69,7 @@ def main():
         else:
             break
     
-    outfile = Path(filename)
+    outfile = Path(f"output/{filename}")
     fig.savefig(outfile, dpi=200)
 
 
